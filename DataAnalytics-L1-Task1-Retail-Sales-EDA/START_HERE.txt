@@ -1,0 +1,10 @@
+OIB-SIP RETAIL SALES EDA — START HERE
+
+1. Open this project folder in VS Code.
+2. Open Terminal > New Terminal.
+3. Run: python -m pip install -r requirements.txt
+4. Run: python Retail_Sales_EDA.py
+5. View charts in outputs/charts/.
+6. View findings in outputs/reports/eda_report.md.
+
+DATA NOTE: The included CSV is synthetic sample data for demonstration. Replace it with the assigned dataset if one is specified by Oasis Infobyte. Never claim sample results are real business findings.

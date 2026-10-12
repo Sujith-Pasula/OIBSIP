@@ -1,0 +1,721 @@
+Transaction ID,Customer ID,Category,Item,Price Per Unit,Quantity,Total Spent,Payment Method,Location,Transaction Date,Gender,Age
+TXN00001,CUST0044,Groceries,Rice,10.77,4,43.08,Cash,In-store,2025-08-24,Male,25.0
+TXN00002,CUST0023,Groceries,Pasta,5.43,2,10.86,UPI,In-store,2025-06-22,Male,35.0
+TXN00003,CUST0136,Clothing,Jacket,70.32,3,210.96,Debit Card,Online,2025-04-19,Male,38.0
+TXN00004,CUST0058,Electronics,Power Bank,33.43,2,66.86,Debit Card,In-store,2025-06-01,Female,44.0
+TXN00005,CUST0042,Home & Kitchen,Pan,28.58,2,67.45,Digital Wallet,In-store,2025-11-29,Male,59.0
+TXN00006,CUST0019,Electronics,USB Cable,8.76,1,8.76,Debit Card,In-store,2025-08-14,Female,50.0
+TXN00007,CUST0037,Beauty,Sunscreen,12.99,2,25.98,UPI,In-store,2025-07-12,Male,44.0
+TXN00008,CUST0092,Groceries,Olive Oil,19.46,1,19.46,Credit Card,Online,2025-03-18,Female,59.0
+TXN00009,CUST0071,Beauty,Sunscreen,12.36,5,61.8,Credit Card,In-store,2025-03-14,Male,64.0
+TXN00010,CUST0154,Beauty,Shampoo,7.91,2,18.67,Debit Card,In-store,2025-12-14,Female,29.0
+TXN00011,CUST0046,Home & Kitchen,Pan,35.36,5,176.8,Debit Card,Online,2025-08-14,Male,21.0
+TXN00012,CUST0127,Books,Exam Guide,22.66,2,45.32,UPI,In-store,2025-05-29,Female,33.0
+TXN00013,CUST0118,Electronics,Power Bank,31.77,4,127.08,UPI,In-store,2025-04-18,Male,56.0
+TXN00014,CUST0051,Books,Comics,9.35,3,33.1,Debit Card,In-store,2025-12-07,Male,33.0
+TXN00015,CUST0148,Home & Kitchen,Pan,31.65,1,37.35,Debit Card,Online,2025-11-13,Female,53.0
+TXN00016,CUST0074,Clothing,Socks,6.33,1,6.33,UPI,Online,2025-05-10,Female,35.0
+TXN00017,CUST0059,Home & Kitchen,Storage Box,15.3,1,15.3,UPI,In-store,2025-07-27,Prefer not to say,65.0
+TXN00018,CUST0061, clothing ,Keyboard,30.61,1,30.61,Debit Card,In-store,2025-02-28,Male,40.0
+TXN00019,CUST0004,Electronics,Power Bank,37.07,2,74.14,UPI,Online,2025-10-09,Male,22.0
+TXN00020,CUST0086,Groceries,Pasta,4.91,4,23.18,UPI,Online,2025-12-16,Female,37.0
+TXN00021,CUST0038,Clothing,T-Shirt,19.13,4,90.29,Credit Card,Online,2025-11-02,Female,48.0
+TXN00022,CUST0108,Electronics,Keyboard,31.29,4,125.16,UPI,Online,2025-09-12,Female,64.0
+TXN00023,CUST0072,Electronics,Keyboard,28.02,5,140.1,UPI,Online,2025-07-31,Female,42.0
+TXN00024,CUST0110,Electronics,Keyboard,27.36,2,64.57, UPI ,In-store,2025-12-06,Female,57.0
+TXN00025,CUST0106,Electronics,Power Bank,37.53,4,177.14,Digital Wallet,In-store,2025-11-19,Male,49.0
+TXN00026,CUST0165,Books,Novel,12.84,4,51.36,UPI,In-store,2025-09-08,Male,26.0
+TXN00027,CUST0091,Home & Kitchen,Bedsheet,29.0,3,87.0,Credit Card,In-store,2025-02-11,Male,25.0
+TXN00028,CUST0092,Home & Kitchen,Bottle,10.8,5,54.0,Debit Card,Online,2025-07-29,Male,51.0
+TXN00029,CUST0083,Home & Kitchen,Pan,34.39,1,40.58,Credit Card,Online,2025-11-15,Female,28.0
+TXN00030,CUST0098,Electronics,Earphones,23.75,1,23.75,Cash,Online,2025-05-02,Female,45.0
+TXN00031,CUST0112,Groceries,Coffee,10.61,2,21.22,Credit Card,In-store,2025-03-08,Female,52.0
+TXN00032,CUST0010,Groceries,Pasta,4.56,2,9.12,Digital Wallet,Online,2025-07-20,Prefer not to say,22.0
+TXN00033,CUST0067,Clothing,Socks,5.49,2,10.98,Credit Card,Online,2025-10-26,Female,23.0
+TXN00034,CUST0033,Clothing,Jeans,39.86,1,47.03,Debit Card,In-store,2025-11-05,Male,20.0
+TXN00035,CUST0151,Groceries,Rice,10.0,1,11.8,Credit Card,Online,2025-12-15,Male,38.0
+TXN00036,CUST0161,Electronics,Keyboard,29.38,1,29.38,Credit Card,Online,2025-03-15,Female,41.0
+TXN00037,CUST0102,Groceries,Rice,11.16,4,44.64,Cash,Online,2025-06-19,Female,36.0
+TXN00038,CUST0112,Clothing,Jacket,64.52,1,64.52,UPI,In-store,2025-08-09,Male,38.0
+TXN00039,CUST0122,Groceries,Olive Oil,20.09,1,20.09,Credit Card,In-store,2025-01-26,Male,23.0
+TXN00040,CUST0097,Groceries,Olive Oil,18.52,1,18.52,Debit Card,In-store,2025-05-01,Male,27.0
+TXN00041,CUST0153,Beauty,Face Wash,9.7,3,29.1,Cash,In-store,2025-09-03,Female,62.0
+TXN00042,CUST0051,Home & Kitchen,Bottle,12.9,4,51.6,Credit Card,In-store,2025-09-10,Male,57.0
+TXN00043,CUST0113,Electronics,Power Bank,39.04,1,39.04,Debit Card,In-store,2025-06-11,Male,29.0
+TXN00044,CUST0012,Books,Comics,9.25,3,32.74,Debit Card,In-store,2025-12-24,Female,51.0
+TXN00045,CUST0009,Books,Planner,12.23,5,61.15,Debit Card,In-store,2025-01-23,Male,55.0
+TXN00046,CUST0178,Beauty,Shampoo,7.15,3,25.31,UPI,Online,2025-12-16,Male,38.0
+TXN00047,CUST0049,Home & Kitchen,Mug,8.69,1,8.69,Credit Card,In-store,2025-01-11,Male,64.0
+TXN00048,CUST0015,Home & Kitchen,Bedsheet,24.86,3,74.58,Credit Card,Online,2025-02-03,Male,60.0
+TXN00049,CUST0071,Home & Kitchen,Pan,34.18,1,40.33,UPI,In-store,2025-11-08,Male,48.0
+TXN00050,CUST0044,Home & Kitchen,Storage Box,13.93,5,69.65,Credit Card,In-store,2025-05-21,Female,37.0
+TXN00051,CUST0080,Books,Novel,12.38,3,37.14,Cash,Online,2025-07-26,Male,61.0
+TXN00052,CUST0148,Clothing,Hoodie,38.21,3,114.63,UPI,In-store,2025-03-01,Prefer not to say,58.0
+TXN00053,CUST0086,Clothing,T-Shirt,18.26,5,107.73,UPI,Online,2025-12-28,Male,33.0
+TXN00054,CUST0128,Home & Kitchen,Bottle,13.05,2,26.1,Debit Card,In-store,2025-05-03,Female,51.0
+TXN00055,CUST0074,Clothing,Hoodie,39.99,2,79.98,Cash,Online,2025-05-23,Male,
+TXN00056,CUST0073,Electronics,Keyboard,28.86,1,34.05,Cash,Online,2025-12-27,Male,45.0
+TXN00057,CUST0150,Groceries,Cereal,7.01,1,7.01,UPI,In-store,2025-01-21,Female,55.0
+TXN00058,CUST0145,Beauty,Lip Balm,5.0,1,5.0,Credit Card,In-store,2025-09-29,Male,24.0
+TXN00059,CUST0144,Home & Kitchen,Bedsheet,26.48,1,31.25,Credit Card,In-store,2025-11-14,Female,30.0
+TXN00060,CUST0029,Groceries,Coffee,11.72,4,46.88,Digital Wallet,Online,2025-05-24,Male,43.0
+TXN00061,CUST0138,Groceries,Pasta,4.86,1,4.86,Digital Wallet,In-store,2025-02-04,Male,28.0
+TXN00062,CUST0153,Beauty,Lip Balm,5.13,5,30.27,UPI,In-store,2025-11-02,Male,62.0
+TXN00063,CUST0105,Clothing,Jeans,45.71,1,45.71,UPI,Online,2025-04-15,Female,45.0
+TXN00064,CUST0082,Beauty,Face Wash,9.33,1,9.33,Digital Wallet,In-store,2025-02-19,Male,35.0
+TXN00065,CUST0016,Home & Kitchen,Bedsheet,26.7,1,26.7,Cash,In-store,2025-09-16,Female,32.0
+TXN00066,CUST0070,Home & Kitchen,Mug,7.5,3,22.5,Cash,Online,2025-08-19,Male,32.0
+TXN00067,CUST0168,Groceries,Pasta,4.43,3,13.29,UPI,In-store,2025-02-01,Female,44.0
+TXN00068,CUST0014,Electronics,Mouse,14.26,1,14.26,Digital Wallet,In-store,2025-06-10,Female,31.0
+TXN00069,CUST0043,Beauty,Face Wash,8.95,1,8.95,Credit Card,In-store,2025-07-09,Female,38.0
+TXN00070,CUST0116,Clothing,Jeans,37.23,1,37.23,UPI,In-store,2025-01-03,Male,43.0
+TXN00071,CUST0106,Home & Kitchen,Bedsheet,29.41,3,88.23,UPI,In-store,2025-10-04,Female,61.0
+TXN00072,CUST0072,Groceries,Pasta,5.29,1,6.24,UPI,In-store,2025-11-22,Female,24.0
+TXN00073,CUST0170,Home & Kitchen,Pan,28.83,1,28.83,UPI,In-store,2025-09-01,Prefer not to say,38.0
+TXN00074,CUST0177,Beauty,Face Wash,8.42,1,8.42,Credit Card,In-store,2025-06-08,Male,30.0
+TXN00075,CUST0048,Electronics,Keyboard,29.64,2,59.28,Digital Wallet,Online,2025-08-08,Male,30.0
+TXN00076,CUST0007,Beauty,Lip Balm,5.5,5,27.5,Cash,Online,2025-05-20,Male,28.0
+TXN00077,CUST0049,Beauty,Shampoo,7.23,4,28.92,UPI,In-store,2025-07-31,Female,21.0
+TXN00078,CUST0043,Beauty,Moisturizer,17.7,1,17.7,Credit Card,Online,2025-07-15,Male,20.0
+TXN00079,CUST0168,Books,Exam Guide,21.96,1,21.96,UPI,In-store,2025-03-11,Female,61.0
+TXN00080,CUST0086,Home & Kitchen,Storage Box,13.75,4,55.0,Cash,Online,2025-04-19,Male,35.0
+TXN00081,CUST0177,Home & Kitchen,Bedsheet,29.91,2,59.82,Digital Wallet,Online,2025-03-09,Female,55.0
+TXN00082,CUST0123,Groceries,Rice,10.77,3,32.31,Debit Card,Online,2025-07-27,Male,51.0
+TXN00083,CUST0041,Groceries,Pasta,4.83,3,14.49,Credit Card,In-store,2025-08-26,Male,24.0
+TXN00084,CUST0088,Electronics,Power Bank,39.18,1,46.23,Credit Card,Online,2025-11-18,Male,57.0
+TXN00085,CUST0082,Clothing,Jacket,64.65,4,258.6,Debit Card,In-store,2025-02-13,Male,21.0
+TXN00086,CUST0016,Books,Planner,10.74,4,42.96,Cash,In-store,2025-04-28,Female,31.0
+TXN00087,CUST0179,Beauty,Lip Balm,4.73,4,18.92,UPI,In-store,2025-08-31,Male,57.0
+TXN00088,CUST0047,Home & Kitchen,Pan,32.03,1,32.03,UPI,Online,2025-07-24,Female,20.0
+TXN00089,CUST0165,Electronics,Keyboard,29.48,1,29.48,Cash,Online,2025-10-15,Prefer not to say,54.0
+TXN00090,CUST0137,Home & Kitchen,Bottle,11.84,2,23.68,Cash,Online,2025-08-24,Male,31.0
+TXN00091,CUST0107,Beauty,Moisturizer,15.41,4,61.64,Debit Card,In-store,2025-05-27,Female,37.0
+TXN00092,CUST0137,GROCERIES ,Coffee,10.94,2,21.88,UPI,In-store,2025-01-27,Female,34.0
+TXN00093,CUST0111,Beauty,Sunscreen,15.62,1,15.62,Debit Card,In-store,2025-03-26,Female,64.0
+TXN00094,CUST0103,Home & Kitchen,Storage Box,13.04,2,30.77,UPI,In-store,2025-11-30,Female,53.0
+TXN00095,CUST0056,Beauty,Shampoo,8.67,3,26.01,Cash,In-store,2025-06-25,Female,46.0
+TXN00096,CUST0072,Books,Notebook,4.2,1,4.2,Cash,Online,2025-10-04,Male,27.0
+TXN00097,CUST0069,Clothing,Jeans,38.06,4,152.24,Cash,In-store,2025-01-08,Prefer not to say,37.0
+TXN00098,CUST0079,Beauty,Shampoo,8.66,4,34.64,Digital Wallet,Online,2025-01-05,Female,49.0
+TXN00099,CUST0045,Electronics,Power Bank,37.84,3,113.52,Credit Card,In-store,2025-07-01,Male,63.0
+TXN00100,CUST0027,Clothing,Jacket,60.95,3,182.85,UPI,In-store,2025-02-08,Female,21.0
+TXN00101,CUST0038,Groceries,Olive Oil,17.04,1,20.11,Debit Card,In-store,2025-11-23,Male,29.0
+TXN00102,CUST0125,Books,Comics,9.47,4,37.88,UPI,In-store,2025-01-28,Female,46.0
+TXN00103,CUST0037,Groceries,Cereal,7.44,1,7.44,UPI,In-store,2025-09-21,Female,18.0
+TXN00104,CUST0087,Clothing,Jeans,46.4,4,185.6,Credit Card,Online,2025-04-23,Male,43.0
+TXN00105,CUST0046,Beauty,Lip Balm,5.58,4,22.32,Credit Card,In-store,2025-02-14,Male,58.0
+TXN00106,CUST0114,Groceries,Pasta,4.55,2,9.1,Debit Card,In-store,2025-04-29,Male,20.0
+TXN00107,CUST0170,Electronics,Earphones,26.67,3,80.01,Digital Wallet,Online,2025-07-01,Prefer not to say,27.0
+TXN00108,CUST0123,Electronics,Power Bank,37.13,2,74.26,Cash,In-store,2025-10-14,Male,38.0
+TXN00109,CUST0052,Groceries,Pasta,5.48,5,32.33,Digital Wallet,Online,2025-11-14,Female,52.0
+TXN00110,CUST0077,Clothing,T-Shirt,17.22,1,17.22,Credit Card,Online,2025-03-01,Female,53.0
+TXN00111,CUST0156,Clothing,Hoodie,36.08,2,72.16,Credit Card,Online,2025-08-22,Female,28.0
+TXN00112,CUST0088,Groceries,Cereal,7.51,1,7.51,Debit Card,In-store,2025-10-14,Male,64.0
+TXN00113,CUST0001,Clothing,Jacket,70.02,5,350.1,Credit Card,In-store,2025-08-03,Male,40.0
+TXN00114,CUST0127,Home & Kitchen,Pan,35.0,2,70.0,UPI,In-store,2025-07-20,Male,30.0
+TXN00115,CUST0020,Electronics,Earphones,26.3,2,52.6,Credit Card,In-store,2025-01-06,Male,65.0
+TXN00116,CUST0137,Home & Kitchen,Bottle,11.9,2,23.8,Digital Wallet,In-store,2025-07-23,Female,30.0
+TXN00117,CUST0037,Clothing,Jacket,61.77,3,185.31,Credit Card,In-store,2025-01-04,Female,27.0
+TXN00118,CUST0072,Home & Kitchen,Storage Box,13.98,3,41.94,UPI,In-store,2025-03-23,Male,30.0
+TXN00119,CUST0115,Groceries,Pasta,4.59,3,13.77,UPI,Online,2025-01-29,Male,23.0
+TXN00120,CUST0107,Books,Notebook,4.17,2,9.84,UPI,In-store,2025-12-11,Female,35.0
+TXN00121,CUST0154,Beauty,Moisturizer,15.15,2,30.3,Credit Card,Online,2025-10-20,Male,19.0
+TXN00122,CUST0088,Home & Kitchen, ,26.2,3,78.6,Credit Card,In-store,2025-09-29,Male,60.0
+TXN00123,CUST0049,Beauty,Moisturizer,15.57,2,31.14,UPI,In-store,2025-09-04,Female,27.0
+TXN00124,CUST0016,Clothing,Jeans,42.4,2,84.8,Cash,In-store,2025-07-02,Male,47.0
+TXN00125,CUST0028,Books,Planner,10.26,3,30.78,UPI,Online,2025-03-08,Male,57.0
+TXN00126,CUST0154,Home & Kitchen,Pan,35.52,5,177.6,UPI,In-store,2025-07-06,Female,26.0
+TXN00127,CUST0140,Books,Exam Guide,24.59,4,98.36,Digital Wallet,Online,2025-03-02,Female,48.0
+TXN00128,CUST0172,Electronics,Earphones,21.4,1,21.4,Debit Card,In-store,2025-09-23,Female,46.0
+TXN00129,CUST0040,Beauty,Shampoo,7.21,2,14.42,Cash,Online,2025-01-17,Female,40.0
+TXN00130,CUST0001,Groceries,Cereal,6.9,1,6.9,Debit Card,In-store,2025-07-04,Female,57.0
+TXN00131,CUST0095,Beauty,Lip Balm,5.17,1,5.17,Debit Card,Online,2025-01-06,Female,39.0
+TXN00132,CUST0079,Clothing,Hoodie,37.39,1,37.39,UPI,In-store,2025-07-14,Female,35.0
+TXN00133,CUST0052,Groceries,Rice,9.47,1,9.47,Debit Card,In-store,2025-10-20,Male,46.0
+TXN00134,CUST0030,Beauty,Face Wash,8.68,3,30.73,Cash,In-store,2025-12-25,Male,36.0
+TXN00135,CUST0031,Home & Kitchen,Bedsheet,27.13,1,27.13,Credit Card,In-store,2025-06-25,Male,37.0
+TXN00136,CUST0094,Books,Novel,13.75,4,55.0,UPI,Online,2025-01-21,Male,28.0
+TXN00137,CUST0057,Home & Kitchen,Bottle,11.25,4,45.0,Digital Wallet,Online,2025-05-19,Female,65.0
+TXN00138,CUST0126,Electronics,Power Bank,32.35,2,64.7,UPI,In-store,2025-01-29,Male,63.0
+TXN00139,CUST0147,Books,Planner,9.97,1,9.97,Credit Card,In-store,2025-09-02,Female,18.0
+TXN00140,CUST0175,Clothing,Jeans,37.23,3,111.69,UPI,In-store,2025-07-22,Male,46.0
+TXN00141,CUST0163,Groceries,Cereal,7.58,1,7.58,UPI,In-store,2025-09-30,Male,51.0
+TXN00142,CUST0049,Books,Novel,15.17,2,30.34,Digital Wallet,Online,2025-10-29,Prefer not to say,47.0
+TXN00143,CUST0144,Electronics,Power Bank,38.77,3,116.31,Credit Card,Online,2025-08-07,Male,64.0
+TXN00144,CUST0107,Home & Kitchen,Bottle,12.7,4,50.8,Digital Wallet,Online,2025-10-25,Male,59.0
+TXN00145,CUST0128,Groceries,Coffee,11.63,2,23.26,UPI,In-store,2025-10-13,Male,49.0
+TXN00146,CUST0082,Groceries,Cereal,6.83,3,20.49,Debit Card,In-store,2025-04-10,Female,65.0
+TXN00147,CUST0017,Electronics,Mouse,17.7,4,83.54,UPI,Online,2025-11-03,Female,57.0
+TXN00148,CUST0062,Electronics,Mouse,14.96,4,59.84,UPI,In-store,2025-08-05,Female,35.0
+TXN00149,CUST0083,Clothing,T-Shirt,19.63,3,58.89,Cash,In-store,2025-10-27,Female,44.0
+TXN00150,CUST0129,Electronics,Keyboard,25.18,3,89.14,Digital Wallet,Online,2025-12-02,Male,19.0
+TXN00151,CUST0030,Electronics,Keyboard,26.25,5,154.88,Credit Card,In-store,2025-12-14,Male,22.0
+TXN00152,CUST0040,Books,Planner,9.9,2,19.8,Cash,Online,2025-09-30,Male,27.0
+TXN00153,CUST0002,Home & Kitchen,Pan,33.26,3,99.78,Debit Card,In-store,2025-04-13,Male,42.0
+TXN00154,CUST0086,Clothing,Jeans,36.97,3,110.91,Credit Card,Online,2025-08-12,Male,53.0
+TXN00155,CUST0129,Home & Kitchen,Pan,35.61,2,71.22,Debit Card,In-store,2025-02-24,Female,39.0
+TXN00156,CUST0075,Groceries,Cereal,6.27,1,6.27,Digital Wallet,In-store,2025-09-18,Male,25.0
+TXN00157,CUST0125,Beauty,Shampoo,7.73,4,30.92,UPI,Online,2025-05-14,Male,53.0
+TXN00158,CUST0081,Electronics,Earphones,26.38,1,31.13,Credit Card,In-store,2025-11-03,Male,56.0
+TXN00159,CUST0027,Home & Kitchen,Bedsheet,29.71,1,29.71,UPI,Online,2025-09-02,Male,62.0
+TXN00160,CUST0080,Groceries,Cereal,7.74,1,7.74,UPI,In-store,2025-02-13,Female,37.0
+TXN00161,CUST0027,Electronics,Power Bank,35.96,1,35.96,UPI,Online,2025-02-09,Female,25.0
+TXN00162,CUST0178,Groceries,Rice,10.18,2,24.02,Digital Wallet,In-store,2025-11-15,Male,58.0
+TXN00163,CUST0109,Clothing,Jeans,45.95,1,45.95,Debit Card,In-store,2025-03-21,Female,65.0
+TXN00164,CUST0176,Groceries,Pasta,4.95,1,5.84,UPI,Online,2025-11-27,Female,54.0
+TXN00165,CUST0154,Beauty,Lip Balm,5.32,2,10.64,Digital Wallet,In-store,2025-08-15,Male,47.0
+TXN00166,CUST0124,Books,Planner,9.76,5,57.58,Credit Card,Online,2025-11-04,Female,32.0
+TXN00167,CUST0160,Groceries,Rice,9.05,3,27.15,Credit Card,Online,2025-10-30,Female,25.0
+TXN00168,CUST0060,Home & Kitchen,Bedsheet,28.3,4,113.2,UPI,In-store,2025-05-05,Male,23.0
+TXN00169,CUST0138,Books,Comics,8.66,2,17.32,Cash,In-store,2025-03-18,Male,43.0
+TXN00170,CUST0013,Clothing,Socks,6.13,2,12.26,UPI,Online,2025-08-09,Female,38.0
+TXN00171,CUST0001,Home & Kitchen,Mug,8.67,1,8.67,UPI,Online,2025-10-16,Prefer not to say,20.0
+TXN00172,CUST0002,Beauty,Sunscreen,15.5,1,15.5,Cash,Online,2025-02-07,Male,32.0
+TXN00173,CUST0056,Groceries,Coffee,12.89,3,38.67,Debit Card,In-store,2025-06-18,Male,25.0
+TXN00174,CUST0008,Groceries,Rice,9.71,3,29.13,Debit Card,In-store,2025-06-04,Female,54.0
+TXN00175,CUST0107,Beauty,Sunscreen,12.39,1,12.39,Credit Card,Online,2025-09-03,Male,65.0
+TXN00176,CUST0159,Home & Kitchen,Pan,34.54,5,172.7,UPI,In-store,2025-08-19,Female,65.0
+TXN00177,CUST0131,Electronics,Earphones,21.37,1,21.37,Cash,Online,2025-01-24,Male,42.0
+TXN00178,CUST0080,Beauty,Sunscreen,13.42,3,40.26,Credit Card,Online,2025-06-04,Female,27.0
+TXN00179,CUST0095,Electronics,Keyboard,26.17,2,52.34,Debit Card,In-store,2025-03-03,Male,55.0
+TXN00180,CUST0121,Groceries,Olive Oil,18.3,5,91.5,Credit Card,Online,2025-10-05,Female,50.0
+TXN00181,CUST0002,Groceries,Olive Oil,19.25,1,19.25,UPI,In-store,2025-04-11,Female,35.0
+TXN00182,CUST0180,Books,Notebook,4.46,4,17.84,Credit Card,Online,2025-10-01,Male,47.0
+TXN00183,CUST0127,Groceries,Cereal,6.36,4,25.44,UPI,Online,2025-02-15,Male,56.0
+TXN00184,CUST0176,Groceries,Rice,8.95,1,8.95,UPI,Online,2025-03-30,Female,28.0
+TXN00185,CUST0016,Home & Kitchen,Bottle,13.29,4,53.16,Digital Wallet,In-store,2025-08-20,Female,61.0
+TXN00186,CUST0161,Clothing,T-Shirt,19.23,2,38.46,UPI,Online,2025-07-04,Male,32.0
+TXN00187,CUST0170,Home & Kitchen,Pan,29.53,1,29.53,Digital Wallet,In-store,2025-03-28,Female,43.0
+TXN00188,CUST0172,Clothing,T-Shirt,17.98,1,17.98,Cash,Online,2025-02-15,Female,31.0
+TXN00189,CUST0173,Books,Novel,12.79,2,25.58,Debit Card,Online,2025-08-04,Female,32.0
+TXN00190,CUST0027,Groceries,Rice,10.99,1,10.99,Digital Wallet,In-store,2025-10-04,Male,20.0
+TXN00191,CUST0086,Electronics,Earphones,23.42,2,46.84,Cash,In-store,2025-09-06,Male,35.0
+TXN00192,CUST0041,Electronics,Keyboard,27.8,2,55.6,Cash,Online,2025-09-16,Male,37.0
+TXN00193,CUST0051,Home & Kitchen,Bottle,11.2,2,26.43,Credit Card,In-store,2025-11-03,Male,51.0
+TXN00194,CUST0061,Beauty,Face Wash,8.99,1,8.99,UPI,In-store,2025-04-11,Male,26.0
+TXN00195,CUST0026,Beauty,Face Wash,9.48,3,28.44,Digital Wallet,In-store,2025-02-26,Female,25.0
+TXN00196,CUST0168,Clothing,T-Shirt,16.3,2,38.47,Debit Card,In-store,2025-11-12,Female,58.0
+TXN00197,CUST0044,Home & Kitchen,Pan,32.83,2,65.66,Digital Wallet,In-store,2025-10-28,Male,21.0
+TXN00198,CUST0094,Home & Kitchen,Pan,33.97,4,135.88,Debit Card,In-store,2025-01-04,Female,31.0
+TXN00199,CUST0079,Clothing,Jeans,37.92,5,189.6,UPI,In-store,2025-03-28,Male,63.0
+TXN00200,CUST0004,Groceries,Olive Oil,19.2,2,38.4,UPI,In-store,2025-09-07,Female,60.0
+TXN00201,CUST0020,Books,Novel,15.37,2,30.74,Digital Wallet,Online,2025-09-25,Male,41.0
+TXN00202,CUST0018,Beauty,Lip Balm,4.79,4,19.16,Credit Card,Online,2025-01-03,Female,41.0
+TXN00203,CUST0151,Clothing,Socks,6.24,1,6.24,Credit Card,In-store,2025-04-17,Male,57.0
+TXN00204,CUST0128,Electronics,Earphones,24.83,3,74.49,UPI,Online,2025-01-29,Female,47.0
+TXN00205,CUST0114,Groceries,Olive Oil,19.55,2,39.1,UPI,Online,2025-05-22,Female,32.0
+TXN00206,CUST0134,Clothing,Jacket,62.46,1,62.46,UPI,Online,2025-01-15,Female,40.0
+TXN00207,CUST0092,Home & Kitchen,Pan,33.53,2,67.06,Digital Wallet,Online,2025-05-25,Female,20.0
+TXN00208,CUST0046,Electronics,Earphones,21.82,1,21.82,Cash,In-store,2025-04-18,Prefer not to say,52.0
+TXN00209,CUST0046,Electronics,Earphones,23.42,1,23.42,UPI,In-store,2025-09-30,Male,50.0
+TXN00210,CUST0112,Books,Exam Guide,24.64,1,24.64,UPI,In-store,2025-09-27,Female,36.0
+TXN00211,CUST0149,Beauty,Shampoo,7.62,5,38.1,Cash,Online,2025-09-05,Female,61.0
+TXN00212,CUST0033,Groceries,Cereal,7.08,4,28.32,Debit Card,In-store,2025-01-25,Male,52.0
+TXN00213,CUST0087,Clothing,Socks,5.34,2,10.68,Credit Card,Online,2025-08-15,Female,55.0
+TXN00214,CUST0176,Books,Notebook,4.38,2,10.34,UPI,In-store,2025-11-29,Male,63.0
+TXN00215,CUST0069,Electronics,Power Bank,39.09,3,117.27,Digital Wallet,In-store,2025-09-10,Male,42.0
+TXN00216,CUST0112,Electronics,Earphones,23.2,1,27.38,Credit Card,Online,2025-12-21,Female,42.0
+TXN00217,CUST0077,Clothing,Jacket,62.94,1,62.94,Credit Card,Online,2025-03-02,Female,48.0
+TXN00218,CUST0162,Clothing,T-Shirt,19.01,1,19.01,UPI,Online,2025-08-23,Male,45.0
+TXN00219,CUST0081,Clothing,Hoodie,37.91,2,75.82,Credit Card,In-store,2025-05-20,Male,54.0
+TXN00220,CUST0060,Home & Kitchen,Mug,7.54,1,7.54,Credit Card,In-store,2025-04-19,Prefer not to say,63.0
+TXN00221,CUST0180,Beauty,Face Wash,8.87,1,8.87,UPI,Online,2025-02-10,Female,34.0
+TXN00222,CUST0127,Clothing,Hoodie,37.22,5,219.6,UPI,In-store,2025-12-19,Male,27.0
+TXN00223,CUST0054,Groceries,Pasta,5.23,1,5.23,UPI,In-store,2025-05-06,Male,52.0
+TXN00224,CUST0065,Clothing,Jacket,70.28,2,165.86,UPI,In-store,2025-11-02,Female,53.0
+TXN00225,CUST0100,Clothing,Socks,5.79,1,6.83,UPI,Online,2025-12-30,Male,39.0
+TXN00226,CUST0039,Clothing,Jacket,65.83,1,65.83,UPI,In-store,2025-02-03,Female,65.0
+TXN00227,CUST0097,Electronics,Keyboard,26.38,1,26.38,Debit Card,In-store,2025-08-31,Male,29.0
+TXN00228,CUST0147,Home & Kitchen,Bottle,10.92,2,21.84,Credit Card,Online,2025-05-17,Male,48.0
+TXN00229,CUST0112,Beauty,Face Wash,8.06,3,24.18,Credit Card,Online,2025-08-03,Female,50.0
+TXN00230,CUST0103,Electronics,Keyboard,25.05,3,75.15,Debit Card,In-store,2025-10-16,Male,30.0
+TXN00231,CUST0176,Clothing,Hoodie,42.04,2,84.08,Credit Card,In-store,2025-10-05,Male,65.0
+TXN00232,CUST0084,Books,Planner,10.44,2,24.64,Credit Card,In-store,2025-12-03,Female,54.0
+TXN00233,CUST0127,Groceries,Olive Oil,19.73,2,39.46,UPI,In-store,2025-07-26,Male,55.0
+TXN00234,CUST0009,Groceries,Cereal,6.3,4,25.2,Debit Card,In-store,2025-10-15,Female,49.0
+TXN00235,CUST0020,Groceries,Pasta,4.59,3,13.77,Debit Card,In-store,2025-02-06,Male,23.0
+TXN00236,CUST0020,Clothing,Jeans,42.97,2,85.94,UPI,In-store,2025-08-01,Female,42.0
+TXN00237,CUST0057,Groceries,Rice,10.67,1,12.59,Credit Card,In-store,2025-12-20,Male,53.0
+TXN00238,CUST0017,Clothing,Jeans,37.31,2,74.62,Cash,In-store,2025-04-14,Female,60.0
+TXN00239,CUST0112,Clothing,Jacket,68.91,2,162.63,Digital Wallet,Online,2025-11-14,Male,65.0
+TXN00240,CUST0113,Home & Kitchen,Storage Box,14.89,2,35.14,UPI,Online,2025-11-15,Male,35.0
+TXN00241,CUST0036,Electronics,Earphones,21.38,1,21.38,Credit Card,Online,2025-02-03,Female,49.0
+TXN00242,CUST0153,Beauty,Moisturizer,16.94,1,16.94,Credit Card,Online,2025-09-18,Female,38.0
+TXN00243,CUST0047,Electronics,Mouse,17.14,1,17.14,UPI,In-store,2025-02-01,Male,59.0
+TXN00244,CUST0123,Clothing,Jeans,39.21,3,117.63,Credit Card,Online,2025-03-09,Female,51.0
+TXN00245,CUST0059,Clothing,Hoodie,34.71,1,40.96,Debit Card,Online,2025-11-09,Male,43.0
+TXN00246,CUST0129,Groceries,Pasta,4.8,1,5.66,UPI,In-store,2025-12-18,Female,54.0
+TXN00247,CUST0010,Home & Kitchen,Pan,30.41,2,60.82,Cash,In-store,2025-07-26,Female,38.0
+TXN00248,CUST0125,Home & Kitchen,Pan,30.84,1,30.84,Credit Card,In-store,2025-05-23,Male,27.0
+TXN00249,CUST0156,Home & Kitchen,Pan,28.36,5,141.8,UPI,In-store,2025-07-21,Female,36.0
+TXN00250,CUST0177,Clothing,T-Shirt,17.88,3,53.64,Debit Card,In-store,2025-08-15,Female,52.0
+TXN00251,CUST0116,Clothing,Jeans,38.63,1,38.63,Credit Card,In-store,2025-02-07,Male,64.0
+TXN00252,CUST0173,Groceries,Olive Oil,16.7,2,33.4,Cash,In-store,2025-08-03,Female,28.0
+TXN00253,CUST0030,Groceries,Cereal,7.38,4,29.52,Cash,Online,2025-02-28,Female,65.0
+TXN00254,CUST0095,Beauty,Lip Balm,5.46,3,16.38,Debit Card,In-store,2025-08-08,Male,55.0
+TXN00255,CUST0173,Books,Comics,9.58,1,9.58,UPI,Online,2025-06-17,Female,43.0
+TXN00256,CUST0020,Clothing,T-Shirt,16.21,4,64.84,Debit Card,In-store,2025-10-16,Female,64.0
+TXN00257,CUST0115,Beauty,Shampoo,7.52,3,22.56,Credit Card,In-store,2025-03-20,Female,50.0
+TXN00258,CUST0178,Electronics,USB Cable,8.3,1,8.3,UPI,Online,2025-04-20,Female,56.0
+TXN00259,CUST0158,Groceries,Pasta,4.44,1,4.44,UPI,In-store,2025-05-01,Prefer not to say,52.0
+TXN00260,CUST0104,Home & Kitchen,Bedsheet,25.11,2,50.22,Debit Card,Online,2025-01-31,Female,45.0
+TXN00261,CUST0131,Beauty,Moisturizer,14.49,2,28.98,Credit Card,In-store,2025-04-12,Female,28.0
+TXN00262,CUST0130,Beauty,Lip Balm,5.01,3,17.74,Cash,Online,2025-11-25,Female,31.0
+TXN00263,CUST0125,Home & Kitchen,Bottle,10.7,3,32.1,Credit Card,In-store,2025-04-24,Female,41.0
+TXN00264,CUST0005,Electronics,Earphones,26.54,2,62.63,UPI,In-store,2025-12-31,Male,21.0
+TXN00265,CUST0168,Beauty,Shampoo,7.13,1,8.41,UPI,In-store,2025-11-02,Female,21.0
+TXN00266,CUST0095,Beauty,Sunscreen,13.28,2,26.56,Cash,Online,2025-05-27,Male,39.0
+TXN00267,CUST0001,Clothing,Hoodie,38.32,3,114.96,UPI,In-store,2025-03-17,Male,19.0
+TXN00268,CUST0107,Beauty,Lip Balm,5.3,2,10.6,UPI,In-store,2025-04-25,Male,55.0
+TXN00269,CUST0138,Home & Kitchen,Bottle,12.89,1,12.89,UPI,In-store,2025-05-20,Male,39.0
+TXN00270,CUST0118,Books,Notebook,3.7,4,14.8,Credit Card,In-store,2025-06-30,Female,32.0
+TXN00271,CUST0080,Clothing,T-Shirt,16.3,3,48.9,Digital Wallet,In-store,2025-04-09,Male,61.0
+TXN00272,CUST0158,Beauty,Shampoo,7.5,1,8.85,Cash,In-store,2025-12-18,Male,21.0
+TXN00273,CUST0102,Groceries,Pasta,5.22,2,10.44,Cash,In-store,2025-10-27,Male,61.0
+TXN00274,CUST0116,Books,Comics,8.55,2,17.1,UPI,In-store,2025-06-18,Male,35.0
+TXN00275,CUST0084,Groceries,Pasta,5.31,3,15.93,Cash,Online,2025-07-21,Female,35.0
+TXN00276,CUST0041,Electronics,USB Cable,7.53,2,15.06,Credit Card,Online,2025-02-01,Male,41.0
+TXN00277,CUST0159,Home & Kitchen,Bottle,12.3,1,12.3,Debit Card,In-store,2025-09-24,Female,26.0
+TXN00278,CUST0081,Groceries,Cereal,7.33,1,7.33,Credit Card,In-store,2025-09-23,Female,58.0
+TXN00279,CUST0094,Clothing,Socks,6.19,3,18.57,Debit Card,In-store,2025-08-02,Male,52.0
+TXN00280,CUST0157,Electronics,USB Cable,8.52,3,25.56,UPI,In-store,2025-03-10,Female,20.0
+TXN00281,CUST0146,Home & Kitchen,Mug,7.53,3,22.59,Debit Card,Online,2025-08-15,Male,44.0
+TXN00282,CUST0119,Books,Novel,15.57,1,15.57,Cash,In-store,2025-10-02,Male,31.0
+TXN00283,CUST0139,Books,Comics,8.66,4,34.64,Credit Card,In-store,2025-04-29,Male,43.0
+TXN00284,CUST0176,Groceries,Rice,8.89,5,44.45,Cash,Online,2025-06-21,Female,65.0
+TXN00285,CUST0179,Electronics,Mouse,14.19,1,16.74,Debit Card,In-store,2025-11-08,Male,33.0
+TXN00286,CUST0134,Groceries,Coffee,12.49,1,12.49,UPI,In-store,2025-01-20,Male,44.0
+TXN00287,CUST0092,Groceries,Olive Oil,19.13,4,76.52,Debit Card,In-store,2025-10-20,Female,61.0
+TXN00288,CUST0033,Groceries,Pasta,4.88,4,19.52,UPI,In-store,2025-06-25,Male,28.0
+TXN00289,CUST0084,Clothing,Jacket,59.67,3,179.01,Credit Card,Online,2025-10-15,Prefer not to say,34.0
+TXN00290,CUST0021,Electronics,Earphones,26.06,1,26.06,Credit Card,In-store,2025-03-17,Male,30.0
+TXN00291,CUST0002,Clothing,Socks,5.46,1,5.46,UPI,Online,2025-03-23,Male,34.0
+TXN00292,CUST0130,Clothing,Socks,5.5,2,11.0,UPI,In-store,2025-01-18,Male,18.0
+TXN00293,CUST0077,Clothing,Socks,6.2,1,6.2,Debit Card,In-store,2025-04-09,Female,50.0
+TXN00294,CUST0162,Electronics,USB Cable,8.66,3,25.98,Cash,In-store,2025-07-07,Male,43.0
+TXN00295,CUST0126,Electronics,Power Bank,32.01,2,75.54,Debit Card,In-store,2025-12-08,Female,63.0
+TXN00296,CUST0180,Clothing,T-Shirt,17.24,1,17.24,Cash,In-store,2025-10-22,Male,48.0
+TXN00297,CUST0104,Clothing,Jacket,72.48,4,289.92,Digital Wallet,In-store,2025-03-27,Male,64.0
+TXN00298,CUST0157,Books,Notebook,4.34,1,4.34,Credit Card,Online,2025-07-19,Female,30.0
+TXN00299,CUST0069,Electronics,Power Bank,35.52,4,167.65,Credit Card,In-store,2025-12-30,Female,20.0
+TXN00300,CUST0009,Clothing,Socks,5.36,4,21.44,UPI,Online,2025-04-06,Female,23.0
+TXN00301,CUST0087,Groceries,Pasta,5.57,1,5.57,UPI,In-store,2025-08-19,Male,49.0
+TXN00302,CUST0032,Electronics,Mouse,16.6,1,19.59,Digital Wallet,In-store,2025-11-12,Male,19.0
+TXN00303,CUST0119,Home & Kitchen,Pan,32.79,1,32.79,UPI,Online,not-a-date,Male,30.0
+TXN00304,CUST0116,Home & Kitchen,Bottle,12.53,1,12.53,Cash,Online,2025-01-24,Prefer not to say,45.0
+TXN00305,CUST0055,Books,Planner,11.7,2,23.4,Debit Card,In-store,2025-09-09,Male,22.0
+TXN00306,CUST0067,Clothing,Jacket,72.06,2,144.12,Credit Card,In-store,2025-01-22,Prefer not to say,58.0
+TXN00307,CUST0023,Clothing,Jeans,39.65,3,118.95,Cash,Online,2025-07-17,Female,61.0
+TXN00308,CUST0003,Electronics,Keyboard,30.1,1,30.1,UPI,Online,2025-07-20,Male,21.0
+TXN00309,CUST0129,Books,Comics,8.78,4,35.12,Credit Card,In-store,2025-03-28,Male,26.0
+TXN00310,CUST0014,Electronics,USB Cable,8.47,3,29.98,Credit Card,Online,2025-12-21,Female,32.0
+TXN00311,CUST0159,Books,Planner,12.22,4,48.88,UPI,In-store,2025-04-11,Male,27.0
+TXN00312,CUST0123,Groceries,Olive Oil,18.34,1,18.34,Cash,In-store,2025-01-06,Female,27.0
+TXN00313,CUST0069,Home & Kitchen,Storage Box,15.53,2,31.06,Debit Card,In-store,2025-02-02,Male,52.0
+TXN00314,CUST0025,Groceries,Olive Oil,18.49,2,36.98,Debit Card,In-store,2025-04-21,Female,47.0
+TXN00315,CUST0034,Books,Exam Guide,20.91,4,83.64,Credit Card,In-store,2025-08-24,Male,36.0
+TXN00316,CUST0017,Electronics,Mouse,14.11,1,14.11,UPI,In-store,2025-01-09,Male,34.0
+TXN00317,CUST0048,Home & Kitchen,Mug,8.36,1,8.36,UPI,In-store,2025-05-11,Male,54.0
+TXN00318,CUST0167,Home & Kitchen,Storage Box,12.52,1,12.52,Credit Card,In-store,2025-08-14,Female,42.0
+TXN00319,CUST0068,Electronics,Mouse,15.56,3,46.68,Cash,Online,2025-03-10,Male,52.0
+TXN00320,CUST0177,Home & Kitchen,Storage Box,13.43,3,40.29,Credit Card,In-store,2025-08-15,Male,43.0
+TXN00321,CUST0137,Groceries,Coffee,11.25,2,22.5,Debit Card,In-store,2025-02-03,Male,59.0
+TXN00322,CUST0097,Home & Kitchen,Pan,28.91,1,28.91,Credit Card,Online,2025-06-27,Male,48.0
+TXN00323,CUST0179,Home & Kitchen,Storage Box,12.58,3,37.74,Digital Wallet,Online,2025-06-13,Female,55.0
+TXN00324,CUST0013,Groceries,Coffee,12.06,4,48.24,Debit Card,In-store,2025-10-25,Male,46.0
+TXN00325,CUST0173,Clothing,T-Shirt,17.98,1,17.98,Digital Wallet,Online,2025-02-07,Male,43.0
+TXN00326,CUST0135,Beauty,Moisturizer,15.02,4,60.08,Credit Card,In-store,2025-10-06,Female,34.0
+TXN00327,CUST0056,Books,Exam Guide,21.75,4,87.0,UPI,In-store,2025-06-11,Male,19.0
+TXN00328,CUST0167,Groceries,Rice,10.44,3,31.32,Credit Card,In-store,2025-06-01,Female,52.0
+TXN00329,CUST0005,Groceries,Olive Oil,17.38,3,52.14,Debit Card,In-store,2025-04-20,Male,31.0
+TXN00330,CUST0076,Clothing,Hoodie,37.59,1,37.59,UPI,Online,2025-06-13,Female,65.0
+TXN00331,CUST0121,Electronics,Mouse,17.29,2,34.58,Debit Card,In-store,2025-08-25,Male,30.0
+TXN00332,CUST0093,Electronics,Keyboard,28.81,3,86.43,Cash,In-store,2025-04-24,Male,54.0
+TXN00333,CUST0128,Home & Kitchen,Storage Box,12.7,2,25.4,Cash,Online,2025-07-22,Male,43.0
+TXN00334,CUST0061,Books,Planner,10.69,2,21.38,Debit Card,In-store,2025-08-20,Male,60.0
+TXN00335,CUST0002,Electronics,Power Bank,33.99,3,101.97,Debit Card,In-store,2025-01-20,Male,22.0
+TXN00336,CUST0075,Beauty,Moisturizer,15.39,3,46.17,Debit Card,Online,2025-10-24,Female,53.0
+TXN00337,CUST0153,Beauty,Shampoo,7.77,1,7.77,UPI,Online,2025-02-27,Female,36.0
+TXN00338,CUST0148,Home & Kitchen,Bedsheet,29.1,1,29.1,UPI,In-store,2025-08-12,Female,32.0
+TXN00339,CUST0104,Home & Kitchen,Bedsheet,24.76,1,24.76,UPI,Online,2025-04-23,Male,32.0
+TXN00340,CUST0103,Books,Comics,9.91,3,29.73,UPI,In-store,2025-05-25,Female,65.0
+TXN00341,CUST0135,Electronics,Earphones,21.69,1,21.69,Credit Card,In-store,2025-03-14,Male,33.0
+TXN00342,CUST0178,Clothing,Jeans,45.14,3,135.42,Cash,In-store,2025-03-17,Female,24.0
+TXN00343,CUST0019,Books,Planner,11.38,3,34.14,Credit Card,In-store,2025-07-29,Male,59.0
+TXN00344,CUST0043,Clothing,Socks,6.67,4,31.48,Debit Card,Online,2025-12-11,Male,43.0
+TXN00345,CUST0107,Clothing,T-Shirt,15.93,1,15.93,UPI,In-store,2025-01-12,Female,36.0
+TXN00346,CUST0093,Beauty,Sunscreen,14.86,4,59.44,Credit Card,Online,2025-02-18,Female,21.0
+TXN00347,CUST0033,Groceries,Olive Oil,18.93,1,22.34,UPI,Online,2025-12-12,Female,47.0
+TXN00348,CUST0171,Books,Comics,8.83,2,17.66,Cash,Online,2025-04-04,Female,43.0
+TXN00349,CUST0151,Clothing,Hoodie,40.37,3,121.11,Digital Wallet,In-store,2025-06-20,Male,36.0
+TXN00350,CUST0140,Books,Planner,11.36,2,22.72,Debit Card,In-store,2025-01-31,Female,54.0
+TXN00351,CUST0053,Home & Kitchen,Bedsheet,31.09,1,31.09,UPI,In-store,2025-10-27,Male,58.0
+TXN00352,CUST0031,Beauty,Sunscreen,15.45,2,30.9,UPI,In-store,2025-08-22,Female,45.0
+TXN00353,CUST0019,Groceries,Pasta,5.0,1,5.0,UPI,In-store,2025-07-17,Female,51.0
+TXN00354,CUST0095,Electronics,Earphones,26.83,3,80.49,UPI,In-store,2025-10-15,Male,29.0
+TXN00355,CUST0172,Beauty,Sunscreen,13.13,2,26.26,Debit Card,Online,2025-08-10,Male,26.0
+TXN00356,CUST0151,Groceries,Rice,8.92,1,8.92,Credit Card,Online,2025-04-13,Female,25.0
+TXN00357,CUST0019,Home & Kitchen,Mug,7.84,2,18.5,Cash,In-store,2025-12-17,Male,28.0
+TXN00358,CUST0124,Clothing,Socks,5.46,2,10.92,UPI,Online,2025-06-24,Female,56.0
+TXN00359,CUST0066,Groceries,Rice,9.92,1,9.92,UPI,In-store,2025-10-24,Female,32.0
+TXN00360,CUST0015,Electronics,Earphones,25.83,2,51.66,Cash,In-store,2025-05-24,Male,26.0
+TXN00361,CUST0162,Clothing,Jacket,69.27,2,138.54,UPI,In-store,2025-03-12,Male,59.0
+TXN00362,CUST0048,Clothing,T-Shirt,17.78,1,17.78,Cash,In-store,2025-09-27,Female,63.0
+TXN00363,CUST0149,Clothing,Jacket,65.81,3,232.97,Credit Card,Online,2025-12-17,Female,42.0
+TXN00364,CUST0140,Books,Comics,9.15,4,36.6,Debit Card,Online,2025-08-17,Female,55.0
+TXN00365,CUST0077,Books,Notebook,3.87,2,7.74,Debit Card,In-store,2025-05-20,Male,39.0
+TXN00366,CUST0114,Beauty,Moisturizer,15.86,3,47.58,UPI,Online,2025-10-14,Male,55.0
+TXN00367,CUST0057,Clothing,Socks,5.74,2,11.48,Credit Card,In-store,2025-03-17,Female,49.0
+TXN00368,CUST0103,Home & Kitchen,Bottle,12.21,1,14.41,UPI,In-store,2025-11-01,Male,39.0
+TXN00369,CUST0050,Beauty,Moisturizer,15.73,5,92.81,Debit Card,In-store,2025-12-18,Female,22.0
+TXN00370,CUST0114,Groceries,Olive Oil,16.46,2,32.92,Credit Card,Online,2025-05-28,Male,27.0
+TXN00371,CUST0054,Clothing,Socks,6.1,1,7.2,UPI,In-store,2025-11-05,Male,26.0
+TXN00372,CUST0157,Beauty,Lip Balm,5.58,4,22.32,UPI,In-store,2025-08-02,Female,18.0
+TXN00373,CUST0064,Groceries,Cereal,7.75,5,38.75,Credit Card,In-store,2025-03-21,Male,35.0
+TXN00374,CUST0135,Clothing,Jacket,67.77,1,67.77,UPI,In-store,2025-10-24,Female,38.0
+TXN00375,CUST0060,Beauty,Moisturizer,15.19,1,15.19,Credit Card,In-store,2025-08-01,Female,22.0
+TXN00376,CUST0111,Electronics,Keyboard,30.95,2,61.9,Cash,In-store,2025-03-01,Female,65.0
+TXN00377,CUST0082,Home & Kitchen,Pan,30.71,1,30.71,Digital Wallet,In-store,2025-01-30,Female,49.0
+TXN00378,CUST0070,Books,Novel,13.54,2,27.08,UPI,In-store,2025-09-17,Female,37.0
+TXN00379,CUST0168,Clothing,Jeans,38.99,1,38.99,UPI,Online,2025-03-18,Female,41.0
+TXN00380,CUST0096,Clothing,T-Shirt,19.53,2,39.06,Credit Card,In-store,2025-09-27,Male,38.0
+TXN00381,CUST0062,Home & Kitchen,Storage Box,13.82,5,69.1,Debit Card,In-store,2025-03-31,Female,44.0
+TXN00382,CUST0151,Clothing,Hoodie,34.46,1,34.46,UPI,Online,2025-03-04,Prefer not to say,64.0
+TXN00383,CUST0150,Groceries,Pasta,4.96,2,11.71,Credit Card,Online,2025-12-21,Male,41.0
+TXN00384,CUST0151,Groceries,Cereal,6.24,2,12.48,Credit Card,In-store,2025-01-09,Female,31.0
+TXN00385,CUST0125,Groceries,Olive Oil,18.84,2,37.68,Debit Card,Online,2025-05-19,Female,49.0
+TXN00386,CUST0163,Groceries,Coffee,11.02,4,44.08,Credit Card,Online,2025-08-31,Female,30.0
+TXN00387,CUST0173,Beauty,Lip Balm,4.41,2,8.82,Credit Card,Online,2025-08-01,Female,61.0
+TXN00388,CUST0065,Electronics,Earphones,21.49,4,85.96,Credit Card,In-store,2025-08-25,Male,53.0
+TXN00389,CUST0141,Groceries,Cereal,6.28,1,6.28,Credit Card,In-store,2025-02-08,Female,30.0
+TXN00390,CUST0033,Beauty,Shampoo,8.32,4,33.28,UPI,Online,2025-01-11,Male,30.0
+TXN00391,CUST0168,Home & Kitchen,Storage Box,15.68,1,18.5,Credit Card,In-store,2025-12-27,Male,22.0
+TXN00392,CUST0117,Home & Kitchen,Storage Box,15.22,4,60.88,Digital Wallet,In-store,2025-10-31,Male,21.0
+TXN00393,CUST0155,Groceries,Cereal,6.53,1,6.53,Debit Card,Online,2025-01-01,Female,24.0
+TXN00394,CUST0037,Clothing,Hoodie,37.15,1,37.15,Credit Card,In-store,2025-09-11,Male,19.0
+TXN00395,CUST0124,Clothing,Jeans,42.52,4,170.08,Cash,In-store,2025-01-21,Female,29.0
+TXN00396,CUST0112,Clothing,Socks,5.65,5,28.25,Debit Card,Online,2025-03-01,Female,59.0
+TXN00397,CUST0160,Home & Kitchen,Mug,7.61,5,38.05,UPI,In-store,2025-09-08,Male,53.0
+TXN00398,CUST0049,Electronics,Keyboard,25.55,4,102.2,UPI,In-store,2025-10-12,Male,52.0
+TXN00399,CUST0006,Groceries,Cereal,6.95,3,24.6,Debit Card,Online,2025-12-21,Female,54.0
+TXN00400,CUST0133,Groceries,Cereal,7.07,2,14.14,Digital Wallet,In-store,2025-01-30,Female,65.0
+TXN00401,CUST0028,Beauty,Sunscreen,14.36,3,43.08,UPI,In-store,2025-10-26,Female,60.0
+TXN00402,CUST0050,Clothing,Socks,5.53,1,5.53,UPI,Online,2025-08-09,Male,23.0
+TXN00403,CUST0021,Books,Notebook,3.79,1,3.79,Digital Wallet,In-store,2025-03-04,Prefer not to say,20.0
+TXN00404,CUST0050,Home & Kitchen,Pan,31.91,1,37.65,Digital Wallet,In-store,2025-12-08,Male,58.0
+TXN00405,CUST0180,Clothing,Jacket,69.65,2,139.3,Cash,In-store,2025-06-23,Female,37.0
+TXN00406,CUST0125,Books,Planner,12.17,2,24.34,Credit Card,Online,2025-08-26,Female,30.0
+TXN00407,CUST0114,Groceries,Rice,9.54,3,28.62,Credit Card,Online,2025-01-11,Female,56.0
+TXN00408,CUST0041,Clothing,Jacket,72.1,3,216.3,UPI,Online,2025-06-11,Male,53.0
+TXN00409,CUST0169,Beauty,Moisturizer,17.31,1,17.31,Credit Card,Online,2025-04-01,Female,51.0
+TXN00410,CUST0031,Electronics,USB Cable,7.14,1,7.14,Debit Card,In-store,2025-02-08,Female,18.0
+TXN00411,CUST0137,Beauty,Sunscreen,13.73,1,13.73,Credit Card,Online,2025-10-19,Female,64.0
+TXN00412,CUST0173,Electronics,USB Cable,7.21,1,7.21,Credit Card,In-store,2025-03-04,Female,58.0
+TXN00413,CUST0040,Electronics,Earphones,26.15,5,130.75,UPI,In-store,2025-06-30,Male,26.0
+TXN00414,CUST0127,Clothing,Hoodie,34.83,3,104.49,UPI,In-store,2025-09-13,Male,47.0
+TXN00415,CUST0117,Groceries,Cereal,6.36,5,31.8,Debit Card,In-store,2025-01-20,Male,38.0
+TXN00416,CUST0042,Electronics,Power Bank,36.98,1,43.64,Credit Card,In-store,2025-12-26,Male,44.0
+TXN00417,CUST0178,Groceries,Cereal,7.06,1,7.06,Credit Card,Online,2025-07-16,Male,22.0
+TXN00418,CUST0157,Electronics,Power Bank,35.32,1,41.68,Cash,In-store,2025-11-13,Female,26.0
+TXN00419,CUST0080,Groceries,Coffee,12.78,5,63.9,UPI,In-store,2025-08-14,Female,45.0
+TXN00420,CUST0141,Home & Kitchen,Bottle,10.92,1,10.92,UPI,Online,2025-10-16,Male,31.0
+TXN00421,CUST0034,Beauty,Moisturizer,15.82,1,18.67,Digital Wallet,In-store,2025-11-21,Male,56.0
+TXN00422,CUST0059,Electronics,Keyboard,25.32,3,75.96,Cash,In-store,2025-01-17,Male,58.0
+TXN00423,CUST0067,Groceries,Coffee,12.34,1,12.34,UPI,In-store,2025-01-24,Male,54.0
+TXN00424,CUST0048,Beauty,Face Wash,9.5,2,19.0,UPI,In-store,2025-04-14,Male,40.0
+TXN00425,CUST0125,Home & Kitchen,Bottle,12.65,3,44.78,UPI,In-store,2025-11-25,Male,65.0
+TXN00426,CUST0071,Books,Exam Guide,21.64,1,21.64,Debit Card,In-store,2025-04-25,Male,50.0
+TXN00427,CUST0106,Beauty,Face Wash,9.17,1,9.17,UPI,In-store,2025-04-29,Female,60.0
+TXN00428,CUST0105,Clothing,Jacket,72.33,3,216.99,Debit Card,In-store,2025-07-15,Female,21.0
+TXN00429,CUST0116,Groceries,Rice,9.5,4,38.0,UPI,In-store,2025-02-12,Male,65.0
+TXN00430,CUST0166,Home & Kitchen,Bottle,12.03,2,24.06,Credit Card,Online,2025-03-22,Male,54.0
+TXN00431,CUST0033,Electronics,Earphones,21.36,3,64.08,UPI,In-store,2025-10-20,Female,52.0
+TXN00432,CUST0108,Beauty,Face Wash,9.85,4,39.4,Debit Card,Online,2025-04-09,Male,51.0
+TXN00433,CUST0013,Home & Kitchen,Bottle,10.62,4,50.13,Cash,Online,2025-12-05,Male,27.0
+TXN00434,CUST0075,Home & Kitchen,Mug,8.7,1,8.7,Debit Card,In-store,2025-05-03,Male,61.0
+TXN00435,CUST0077,Clothing,Jeans,39.0,5,195.0,UPI,In-store,2025-05-16,Prefer not to say,24.0
+TXN00436,CUST0065,Clothing,Socks,6.25,2,12.5,Cash,In-store,2025-01-08,Female,65.0
+TXN00437,CUST0147,Clothing,T-Shirt,18.47,5,92.35,Credit Card,In-store,2025-06-13,Male,60.0
+TXN00438,CUST0152,Books,Novel,15.14,3,45.42,Debit Card,In-store,2025-01-31,Female,34.0
+TXN00439,CUST0014,Beauty,Shampoo,7.75,1,7.75,Cash,Online,2025-01-16,Male,21.0
+TXN00440,CUST0143,Beauty,Face Wash,8.56,3,25.68,Digital Wallet,In-store,2025-01-18,Female,29.0
+TXN00441,CUST0018,Home & Kitchen,Bottle,10.86,5,54.3,Credit Card,In-store,2025-09-19,Female,35.0
+TXN00442,CUST0006,Electronics,Mouse,16.78,5,83.9,Digital Wallet,In-store,2025-09-27,Female,31.0
+TXN00443,CUST0013,Groceries,Pasta,5.45,1,6.43,Credit Card,In-store,2025-11-27,Female,65.0
+TXN00444,CUST0150,Home & Kitchen,Pan,33.93,2,67.86,Debit Card,In-store,2025-03-14,Male,44.0
+TXN00445,CUST0018,Groceries,Olive Oil,19.4,2,45.78,UPI,In-store,2025-12-23,Female,55.0
+TXN00446,CUST0151,Beauty,Shampoo,8.7,1,8.7,Cash,In-store,2025-08-06,Male,59.0
+TXN00447,CUST0177,Electronics,Keyboard,28.92,4,115.68,Credit Card,In-store,2025-03-12,Male,59.0
+TXN00448,CUST0068,Home & Kitchen,Mug,8.85,1,8.85,UPI,In-store,2025-07-18,Male,65.0
+TXN00449,CUST0042,Electronics,Earphones,22.93,2,45.86,Cash,Online,2025-07-26,Female,60.0
+TXN00450,CUST0083,Groceries,Coffee,12.04,1,12.04,UPI,In-store,2025-06-03,Male,32.0
+TXN00451,CUST0069,Home & Kitchen,Pan,29.99,4,141.55,Debit Card,Online,2025-12-20,Prefer not to say,20.0
+TXN00452,CUST0109,Clothing,Jeans,44.14,5,220.7,Digital Wallet,In-store,2025-10-09,Female,43.0
+TXN00453,CUST0148,Clothing,Jacket,66.95,4,316.0,Credit Card,In-store,2025-11-19,Female,21.0
+TXN00454,CUST0128,Groceries,Coffee,12.84,1,12.84,Debit Card,Online,2025-01-07,Male,57.0
+TXN00455,CUST0079,Groceries,Pasta,4.72,1,4.72,Debit Card,In-store,2025-08-24,Prefer not to say,62.0
+TXN00456,CUST0132,Beauty,Lip Balm,4.69,3,14.07,UPI,In-store,2025-09-29,Male,44.0
+TXN00457,CUST0047,Electronics,USB Cable,8.79,4,35.16,Credit Card,Online,2025-09-01,Male,32.0
+TXN00458,CUST0150,Electronics,USB Cable,8.77,2,17.54,Cash,Online,2025-02-07,Female,45.0
+TXN00459,CUST0137,Clothing,Hoodie,40.59,4,162.36,Credit Card,In-store,2025-06-16,Female,21.0
+TXN00460,CUST0063,Electronics,Earphones,25.14,2,50.28,UPI,In-store,2025-08-26,Female,41.0
+TXN00461,CUST0152,Electronics,USB Cable,7.17,3,21.51,Credit Card,In-store,2025-08-04,Male,46.0
+TXN00462,CUST0141,Clothing,Jacket,65.77,3,197.31,Credit Card,Online,2025-07-29,Female,31.0
+TXN00463,CUST0174,Groceries,Rice,11.19,2,26.41,Cash,In-store,2025-12-17,Male,56.0
+TXN00464,CUST0008,Beauty,Moisturizer,15.17,4,60.68,Cash,In-store,2025-07-12,Female,30.0
+TXN00465,CUST0108,Groceries,Cereal,7.16,3,21.48,Debit Card,In-store,2025-04-13,Female,60.0
+TXN00466,CUST0155,Beauty,Moisturizer,17.53,4,70.12,Credit Card,Online,2025-06-06,Female,64.0
+TXN00467,CUST0113,Electronics,Power Bank,33.78,1,33.78,UPI,Online,2025-02-15,Male,57.0
+TXN00468,CUST0071,Groceries,Cereal,6.95,2,13.9,Debit Card,Online,2025-09-23,Male,57.0
+TXN00469,CUST0061,Clothing,T-Shirt,19.23,5,96.15,UPI,In-store,2025-02-09,Male,20.0
+TXN00470,CUST0135,Books,Novel,13.29,1,13.29,Credit Card,Online,2025-06-30,Female,34.0
+TXN00471,CUST0025,Books,Novel,14.97,4,59.88,Digital Wallet,Online,2025-08-26,Female,42.0
+TXN00472,CUST0013,Electronics,Earphones,21.39,3,64.17,Debit Card,Online,2025-08-24,Female,39.0
+TXN00473,CUST0076,Home & Kitchen,Mug,8.35,3,25.05,Digital Wallet,Online,2025-05-22,Male,18.0
+TXN00474,CUST0072,Electronics,Mouse,17.53,3,62.06,Credit Card,In-store,2025-11-10,Male,38.0
+TXN00475,CUST0052,Electronics,Keyboard,28.46,4,113.84,Credit Card,In-store,2025-01-09,Male,47.0
+TXN00476,CUST0046,Beauty,Lip Balm,4.92,5,24.6,UPI,Online,2025-01-07,Female,47.0
+TXN00477,CUST0019,Electronics,Power Bank,38.62,1,38.62,Digital Wallet,In-store,2025-10-12,Female,59.0
+TXN00478,CUST0109,Groceries,Cereal,6.6,1,6.6,UPI,Online,2025-03-11,Female,65.0
+TXN00479,CUST0114,Home & Kitchen,Pan,30.44,1,30.44,Cash,Online,2025-03-23,Female,21.0
+TXN00480,CUST0006,Books,Exam Guide,22.87,1,22.87,Debit Card,In-store,2025-02-25,Female,49.0
+TXN00481,CUST0069,Beauty,Moisturizer,17.15,2,40.47,Credit Card,Online,2025-11-07,Prefer not to say,36.0
+TXN00482,CUST0085,Groceries,Pasta,4.64,5,27.38,Debit Card,In-store,2025-12-10,Female,38.0
+TXN00483,CUST0095,Groceries,Olive Oil,19.43,2,38.86,Credit Card,In-store,2025-06-24,Male,33.0
+TXN00484,CUST0036,Electronics,Earphones,26.82,4,107.28,Debit Card,In-store,2025-04-02,Female,38.0
+TXN00485,CUST0087,Clothing,Jacket,58.38,4,233.52,Debit Card,Online,2025-09-10,Female,31.0
+TXN00486,CUST0126,Clothing,Jeans,38.88,4,155.52,Debit Card,In-store,2025-03-04,Male,45.0
+TXN00487,CUST0079,Groceries,Rice,9.89,2,23.34,Credit Card,Online,2025-11-13,Male,25.0
+TXN00488,CUST0024,Home & Kitchen,Storage Box,14.17,1,14.17,Debit Card,In-store,2025-09-05,Male,59.0
+TXN00489,CUST0041,Books,Notebook,3.96,2,7.92,UPI,In-store,2025-04-16,Male,27.0
+TXN00490,CUST0044,Beauty,Lip Balm,4.79,1,4.79,Digital Wallet,Online,2025-03-14,Female,24.0
+TXN00491,CUST0105,Groceries,Rice,10.55,2,21.1,Debit Card,In-store,2025-06-24,Male,62.0
+TXN00492,CUST0153,Beauty,Lip Balm,5.03,4,20.12,UPI,Online,2025-09-01,Male,39.0
+TXN00493,CUST0090,Home & Kitchen,Storage Box,12.7,3,38.1,Credit Card,In-store,2025-07-17,Male,27.0
+TXN00494,CUST0016,Electronics,Keyboard,27.88,3,83.64,UPI,Online,2025-01-09,Female,28.0
+TXN00495,CUST0019,Home & Kitchen,Pan,32.2,2,64.4,Credit Card,In-store,2025-01-02,Male,57.0
+TXN00496,CUST0049,Clothing,Jacket,70.65,3,211.95,Digital Wallet,In-store,2025-04-26,Male,39.0
+TXN00497,CUST0096,Groceries,Rice,9.97,2,19.94,UPI,In-store,2025-08-15,Male,20.0
+TXN00498,CUST0149,Beauty,Moisturizer,14.66,1,17.3,Debit Card,Online,2025-12-07,Female,44.0
+TXN00499,CUST0015,Groceries,Pasta,4.81,3,17.03,Debit Card,In-store,2025-12-25,Male,39.0
+TXN00500,CUST0127,Books,Planner,9.81,2,23.15,Debit Card,In-store,2025-12-26,Male,31.0
+TXN00501,CUST0126,Books,Planner,11.11,4,52.44,Cash,Online,2025-11-12,Female,28.0
+TXN00502,CUST0089,Books,Planner,10.7,3,32.1,UPI,In-store,2025-10-01,Female,35.0
+TXN00503,CUST0010,Home & Kitchen,Bottle,12.88,4,51.52,Credit Card,In-store,2025-02-13,Female,37.0
+TXN00504,CUST0025,Home & Kitchen,Pan,29.99,1,29.99,UPI,Online,2025-02-14,Male,45.0
+TXN00505,CUST0036,Electronics,Power Bank,31.78,5,158.9,Cash,In-store,2025-08-20,Female,62.0
+TXN00506,CUST0109,Clothing,Socks,6.16,1,6.16,Cash,Online,2025-08-17,Female,38.0
+TXN00507,CUST0026,Beauty,Lip Balm,5.59,2,11.18,Cash,Online,2025-03-08,Female,25.0
+TXN00508,CUST0016,Clothing,Socks,6.19,3,21.91,Credit Card,In-store,2025-11-14,Male,35.0
+TXN00509,CUST0008,Beauty,Shampoo,8.8,1,8.8,Credit Card,Online,2025-07-07,Female,41.0
+TXN00510,CUST0031,Electronics,Keyboard,29.24,2,58.48,UPI,Online,2025-10-25,Female,38.0
+TXN00511,CUST0085,Electronics,Mouse,17.13,2,40.43,UPI,In-store,2025-11-23,Female,21.0
+TXN00512,CUST0165,Clothing,Hoodie,35.08,3,105.24,Credit Card,Online,2025-09-09,Female,48.0
+TXN00513,CUST0087,Groceries,Coffee,10.68,3,32.04,Digital Wallet,Online,2025-09-01,Male,30.0
+TXN00514,CUST0135,Electronics,Earphones,25.39,4,101.56,UPI,In-store,2025-04-21,Male,61.0
+TXN00515,CUST0011,Electronics,Earphones,24.47,2,48.94,UPI,Online,2025-08-09,Male,24.0
+TXN00516,CUST0116,Clothing,Jeans,43.14,2,86.28,Credit Card,In-store,2025-05-29,Female,45.0
+TXN00517,CUST0096,Home & Kitchen,Mug,8.78,2,17.56,Cash,In-store,2025-04-09,Male,56.0
+TXN00518,CUST0131,Beauty,Face Wash,8.61,5,43.05,Credit Card,In-store,2025-01-30,Male,18.0
+TXN00519,CUST0013,Groceries,Rice,10.15,4,40.6,Cash,Online,2025-03-29,Male,53.0
+TXN00520,CUST0115,Home & Kitchen,Bottle,11.99,3,35.97,UPI,In-store,2025-10-01,Male,50.0
+TXN00521,CUST0035,Home & Kitchen,Pan,34.86,3,104.58,UPI,Online,2025-09-26,Female,25.0
+TXN00522,CUST0109,Beauty,Moisturizer,15.3,5,76.5,Credit Card,In-store,2025-10-02,Female,23.0
+TXN00523,CUST0145,Electronics,Power Bank,33.52,3,100.56,UPI,Online,2025-07-07,Female,35.0
+TXN00524,CUST0132,Groceries,Coffee,11.71,1,13.82,Cash,In-store,2025-11-16,Female,20.0
+TXN00525,CUST0019,Beauty,Sunscreen,13.68,1,13.68,Cash,In-store,2025-07-02,Male,22.0
+TXN00526,CUST0176,Electronics,Earphones,22.72,3,68.16,UPI,Online,2025-06-29,Female,30.0
+TXN00527,CUST0088,Beauty,Face Wash,9.72,1,9.72,UPI,Online,2025-01-09,Female,18.0
+TXN00528,CUST0075,Groceries,Pasta,5.04,3,15.12,Debit Card,In-store,2025-04-10,Male,65.0
+TXN00529,CUST0145,Groceries,Pasta,4.67,3,14.01,Credit Card,Online,2025-05-13,Male,47.0
+TXN00530,CUST0067,Electronics,Power Bank,32.02,3,96.06,UPI,In-store,2025-08-20,Male,48.0
+TXN00531,CUST0020,Electronics,Earphones,23.12,4,92.48,Debit Card,In-store,2025-08-25,Male,64.0
+TXN00532,CUST0161,Home & Kitchen,Bedsheet,30.55,3,108.15,Debit Card,In-store,2025-12-14,Male,63.0
+TXN00533,CUST0179,Clothing,Socks,6.0,3,18.0,Cash,Online,2025-05-03,Male,52.0
+TXN00534,CUST0065,Electronics,USB Cable,7.72,3,23.16,Credit Card,Online,2025-01-03,Male,27.0
+TXN00535,CUST0112,Clothing,Socks,6.11,3,18.33,Digital Wallet,Online,2025-06-07,Male,39.0
+TXN00536,CUST0146,Beauty,Shampoo,8.85,2,17.7,Credit Card,Online,2025-03-03,Female,30.0
+TXN00537,CUST0031,Beauty,Shampoo,8.24,1,8.24,Credit Card,In-store,2025-06-16,Female,42.0
+TXN00538,CUST0034,Electronics,Earphones,25.05,3,75.15,UPI,In-store,2025-07-30,Female,29.0
+TXN00539,CUST0145,Home & Kitchen,Mug,7.4,1,7.4,Credit Card,In-store,2025-10-03,Male,29.0
+TXN00540,CUST0125,Home & Kitchen,Mug,7.32,2,14.64,UPI,In-store,2025-07-15,Female,24.0
+TXN00541,CUST0048,Beauty,Shampoo,8.02,3,24.06,Cash,In-store,2025-09-15,Male,32.0
+TXN00542,CUST0074,Electronics,Earphones,23.13,2,46.26,Debit Card,Online,2025-06-18,Female,50.0
+TXN00543,CUST0089,Beauty,Shampoo,7.99,2,15.98,Credit Card,In-store,2025-02-18,Female,36.0
+TXN00544,CUST0082,Home & Kitchen,Pan,31.18,1,31.18,Debit Card,In-store,2025-07-27,Female,57.0
+TXN00545,CUST0090,Home & Kitchen,Storage Box,14.28,5,71.4,Credit Card,Online,2025-02-26,Male,53.0
+TXN00546,CUST0119,Beauty,Sunscreen,12.93,1,12.93,UPI,Online,2025-01-11,Male,24.0
+TXN00547,CUST0003,Home & Kitchen,Storage Box,14.06,2,33.18,Debit Card,In-store,2025-11-03,Female,49.0
+TXN00548,CUST0174,Groceries,Rice,9.86,2,19.72,Debit Card,Online,2025-05-03,Male,45.0
+TXN00549,CUST0142,Electronics,Mouse,15.26,4,72.03,Cash,Online,2025-12-11,Female,45.0
+TXN00550,CUST0151,Groceries,Cereal,6.7,1,6.7,Debit Card,In-store,2025-09-30,Male,61.0
+TXN00551,CUST0174,Electronics,Power Bank,38.51,1,38.51,UPI,Online,2025-07-06,Prefer not to say,53.0
+TXN00552,CUST0001,Clothing,Socks,5.97,1,7.04,Digital Wallet,In-store,2025-12-04,Male,22.0
+TXN00553,CUST0055,Beauty,Face Wash,9.14,3,27.42,Cash,Online,2025-04-25,Male,61.0
+TXN00554,CUST0150,Books,Notebook,3.61,1,3.61,Debit Card,Online,2025-03-14,Male,18.0
+TXN00555,CUST0116,Home & Kitchen,Storage Box,13.06,3,39.18,UPI,Online,2025-02-10,Male,49.0
+TXN00556,CUST0150,Home & Kitchen,Pan,33.17,2,66.34,UPI,Online,2025-02-22,Male,53.0
+TXN00557,CUST0083,Home & Kitchen,Mug,7.23,1,8.53,Cash,In-store,2025-12-22,Male,63.0
+TXN00558,CUST0140,Clothing,T-Shirt,17.71,2,35.42,Digital Wallet,In-store,2025-05-31,Female,58.0
+TXN00559,CUST0110,Home & Kitchen,Pan,34.31,1,34.31,UPI,In-store,2025-03-22,Female,22.0
+TXN00560,CUST0145,Groceries,Olive Oil,18.09,4,72.36,UPI,In-store,2025-10-24,Male,29.0
+TXN00561,CUST0145,Beauty,Lip Balm,4.71,1,5.56,Debit Card,In-store,2025-12-14,Female,44.0
+TXN00562,CUST0163,Groceries,Olive Oil,19.84,2,39.68,UPI,Online,2025-05-15,Male,44.0
+TXN00563,CUST0137,Books,Planner,10.52,2,21.04,UPI,In-store,2025-01-15,Male,57.0
+TXN00564,CUST0075,Home & Kitchen,Bedsheet,27.93,4,111.72,UPI,In-store,2025-07-14,Male,18.0
+TXN00565,CUST0023,Beauty,Face Wash,9.41,1,9.41,Cash,In-store,2025-04-29,Female,26.0
+TXN00566,CUST0099,Electronics,USB Cable,8.09,2,16.18,UPI,In-store,2025-08-14,Female,65.0
+TXN00567,CUST0125,Electronics,Mouse,14.29,1,14.29,UPI,Online,2025-08-16,Female,63.0
+TXN00568,CUST0003,Groceries,Rice,10.66,3,31.98,Debit Card,In-store,2025-05-28,Female,42.0
+TXN00569,CUST0107,Books,Novel,13.22,3,39.66,UPI,In-store,2025-03-02,Male,61.0
+TXN00570,CUST0123,Electronics,Keyboard,30.06,1,30.06,Debit Card,In-store,2025-06-16,Female,36.0
+TXN00571,CUST0062,Beauty,Shampoo,8.79,2,17.58,Digital Wallet,In-store,2025-02-18,Male,47.0
+TXN00572,CUST0120,Home & Kitchen,Pan,34.47,1,34.47,Digital Wallet,In-store,2025-01-10,Male,33.0
+TXN00573,CUST0135,Groceries,Coffee,13.12,4,52.48,UPI,In-store,2025-03-20,Female,56.0
+TXN00574,CUST0055,Electronics,Keyboard,30.63,4,122.52,Debit Card,In-store,2025-06-20,Male,29.0
+TXN00575,CUST0133,Home & Kitchen,Bottle,12.72,3,38.16,Digital Wallet,In-store,2025-03-22,Female,44.0
+TXN00576,CUST0136,Groceries,Pasta,5.37,3,16.11,Debit Card,In-store,2025-04-15,Female,25.0
+TXN00577,CUST0156,Home & Kitchen,Pan,31.07,3,109.99,UPI,In-store,2025-12-07,Female,23.0
+TXN00578,CUST0061,Electronics,Earphones,24.04,1,24.04,Digital Wallet,Online,2025-09-05,Male,65.0
+TXN00579,CUST0165,Beauty,Sunscreen,12.49,1,12.49,Cash,In-store,2025-03-07,Female,24.0
+TXN00580,CUST0134,Groceries,Cereal,7.45,4,29.8,Cash,In-store,2025-06-16,Male,25.0
+TXN00581,CUST0149,Home & Kitchen,Mug,8.04,1,9.49,UPI,Online,2025-12-14,Female,62.0
+TXN00582,CUST0173,Books,Exam Guide,22.0,1,22.0,Credit Card,In-store,2025-08-26,Female,32.0
+TXN00583,CUST0148,Home & Kitchen,Bedsheet,28.98,3,86.94,UPI,Online,2025-08-09,Male,36.0
+TXN00584,CUST0089,Home & Kitchen,Pan,34.6,2,69.2,Debit Card,In-store,2025-07-02,Female,51.0
+TXN00585,CUST0124,Groceries,Coffee,11.44,2,22.88,Cash,Online,2025-03-03,Male,34.0
+TXN00586,CUST0055,Clothing,T-Shirt,17.72,5,88.6,Digital Wallet,In-store,2025-04-19,Male,48.0
+TXN00587,CUST0068,Electronics,Keyboard,31.19,3,93.57,Digital Wallet,In-store,2025-02-05,Female,20.0
+TXN00588,CUST0128,Beauty,Face Wash,9.39,2,18.78,Digital Wallet,In-store,2025-10-29,Male,51.0
+TXN00589,CUST0155,Clothing,Jacket,68.41,2,136.82,Debit Card,In-store,2025-07-27,Male,34.0
+TXN00590,CUST0175,Clothing,Jacket,63.44,2,126.88,Debit Card,Online,2025-03-20,Female,59.0
+TXN00591,CUST0140,Groceries,Coffee,11.07,3,33.21,Digital Wallet,Online,2025-10-10,Female,47.0
+TXN00592,CUST0006,Electronics,Power Bank,32.56,1,32.56,Credit Card,Online,2025-04-10,Male,56.0
+TXN00593,CUST0139,Groceries,Coffee,10.87,1,10.87,Credit Card,In-store,2025-03-05,Prefer not to say,21.0
+TXN00594,CUST0035,Groceries,Coffee,12.7,3,38.1,Debit Card,Online,2025-07-06,Prefer not to say,48.0
+TXN00595,CUST0152,Groceries,Olive Oil,20.01,4,94.45,Digital Wallet,In-store,2025-11-04,Male,64.0
+TXN00596,CUST0156,Beauty,Shampoo,8.33,1,8.33,UPI,In-store,2025-02-21,Male,47.0
+TXN00597,CUST0176,Groceries,Coffee,12.47,1,12.47,Cash,In-store,2025-02-06,Male,48.0
+TXN00598,CUST0027,Electronics,Earphones,24.51,2,49.02,Credit Card,In-store,2025-05-09,Male,60.0
+TXN00599,CUST0154,Home & Kitchen,Bottle,11.0,3,33.0,Cash,In-store,2025-06-01,Male,43.0
+TXN00600,CUST0123,Electronics,Earphones,21.58,3,64.74,Cash,In-store,2025-02-03,Female,53.0
+TXN00601,CUST0136,Clothing,Hoodie,39.34,4,157.36,Digital Wallet,Online,2025-04-29,Male,33.0
+TXN00602,CUST0019,Clothing,Hoodie,42.21,2,84.42,Debit Card,Online,2025-10-07,Female,60.0
+TXN00603,CUST0172,Clothing,Jacket,63.82,4,255.28,Debit Card,In-store,2025-02-09,Prefer not to say,63.0
+TXN00604,CUST0040,Electronics,Keyboard,29.6,1,29.6,Debit Card,Online,2025-01-06,Female,18.0
+TXN00605,CUST0146,Books,Comics,9.56,3,28.68,UPI,Online,2025-07-07,Female,54.0
+TXN00606,CUST0046,Electronics,Earphones,23.71,2,47.42,Credit Card,Online,2025-01-20,Male,44.0
+TXN00607,CUST0147,Groceries,Olive Oil,20.1,1,23.72,Cash,Online,2025-12-07,Female,32.0
+TXN00608,CUST0142,Home & Kitchen,Mug,8.6,4,34.4,Digital Wallet,Online,2025-04-01,Male,58.0
+TXN00609,CUST0022,Books,Notebook,3.58,2,8.45,Credit Card,In-store,2025-12-12,Male,27.0
+TXN00610,CUST0120,Beauty,Lip Balm,4.96,1,4.96,UPI,Online,2025-07-01,Male,41.0
+TXN00611,CUST0050,Clothing,Hoodie,36.88,2,73.76,Cash,In-store,2025-09-09,Female,20.0
+TXN00612,CUST0173,Groceries,Olive Oil,16.85,2,33.7,Credit Card,In-store,2025-02-06,Female,38.0
+TXN00613,CUST0108,Groceries,Olive Oil,19.42,1,19.42,Debit Card,In-store,2025-06-18,Male,33.0
+TXN00614,CUST0164,Groceries,Olive Oil,19.33,2,38.66,UPI,Online,2025-09-13,Male,65.0
+TXN00615,CUST0110,Electronics,Power Bank,34.22,3,121.14,UPI,In-store,2025-11-19,Male,62.0
+TXN00616,CUST0120,Clothing,T-Shirt,17.09,3,51.27,UPI,In-store,2025-08-19,Female,19.0
+TXN00617,CUST0038,Clothing,Jacket,72.64,2,145.28,Debit Card,Online,2025-07-20,Male,25.0
+TXN00618,CUST0146,Electronics,Keyboard,25.15,3,75.45,Cash,Online,2025-09-02,Male,38.0
+TXN00619,CUST0122,Clothing,Socks,6.6,2,13.2,UPI,In-store,2025-04-04,Female,30.0
+TXN00620,CUST0134,Electronics,Power Bank,33.3,3,99.9,Debit Card,Online,2025-06-21,Prefer not to say,60.0
+TXN00621,CUST0017,Beauty,Lip Balm,5.45,1,5.45,Credit Card,Online,2025-09-27,Male,34.0
+TXN00622,CUST0063,Electronics,Power Bank,31.82,2,63.64,Credit Card,In-store,2025-01-31,Female,40.0
+TXN00623,CUST0026,Clothing,Hoodie,35.54,3,106.62,Cash,In-store,2025-07-30,Male,28.0
+TXN00624,CUST0114,Books,Comics,8.6,3,25.8,UPI,Online,2025-10-02,Female,18.0
+TXN00625,CUST0151,Electronics,Keyboard,26.72,1,26.72,Credit Card,In-store,2025-06-27,Female,46.0
+TXN00626,CUST0124,Beauty,Shampoo,8.53,3,25.59,Credit Card,In-store,2025-06-13,Male,29.0
+TXN00627,CUST0137,Clothing,Jeans,46.28,1,46.28,UPI,In-store,2025-08-23,Male,43.0
+TXN00628,CUST0126,Electronics,USB Cable,7.99,1,7.99,UPI,Online,2025-01-18,Female,43.0
+TXN00629,CUST0053,Books,Planner,10.07,5,50.35,Debit Card,Online,2025-08-03,Female,55.0
+TXN00630,CUST0040,Beauty,Moisturizer,17.55,3,52.65,Debit Card,In-store,2025-09-19,Male,21.0
+TXN00631,CUST0140,Groceries,Rice,8.92,4,35.68,Credit Card,In-store,2025-09-30,Female,42.0
+TXN00632,CUST0102,Groceries,Cereal,7.58,1,7.58,Cash,Online,2025-09-24,Female,34.0
+TXN00633,CUST0037,Groceries,Cereal,7.18,1,7.18,Debit Card,Online,2025-01-25,Male,54.0
+TXN00634,CUST0001,Books,Notebook,3.52,3,12.46,Debit Card,Online,2025-11-04,Male,61.0
+TXN00635,CUST0131,Groceries,Rice,9.39,2,18.78,Debit Card,Online,2025-07-07,Male,47.0
+TXN00636,CUST0123,Clothing,T-Shirt,19.52,1,19.52,Credit Card,In-store,2025-02-28,Female,25.0
+TXN00637,CUST0167,Books,Comics,9.58,4,38.32,UPI,Online,2025-10-23,Female,53.0
+TXN00638,CUST0076,Electronics,Earphones,25.98,4,103.92,Digital Wallet,In-store,2025-02-11,Male,42.0
+TXN00639,CUST0027,Beauty,Lip Balm,5.35,3,18.94,Cash,In-store,2025-11-07,Male,54.0
+TXN00640,CUST0145,Groceries,Cereal,7.16,1,7.16,Debit Card,In-store,2025-03-01,Female,23.0
+TXN00641,CUST0005,Electronics,Earphones,21.72,2,43.44,Cash,Online,2025-05-28,Female,49.0
+TXN00642,CUST0135,Clothing,T-Shirt,16.47,2,32.94,UPI,In-store,2025-06-29,Male,54.0
+TXN00643,CUST0099,Home & Kitchen,Bottle,12.15,1,12.15,Debit Card,In-store,2025-07-12,Female,26.0
+TXN00644,CUST0144,Electronics,Power Bank,36.01,1,36.01,Digital Wallet,In-store,2025-02-17,Male,35.0
+TXN00645,CUST0045,Home & Kitchen,Mug,8.68,2,17.36,UPI,Online,2025-03-09,Male,58.0
+TXN00646,CUST0046,Groceries,Olive Oil,19.73,5,98.65,UPI,Online,2025-01-06,Male,63.0
+TXN00647,CUST0177,Groceries,Olive Oil,16.43,3,49.29,UPI,Online,2025-08-11,Male,47.0
+TXN00648,CUST0070,Electronics,Power Bank,31.84,1,37.57,Credit Card,In-store,2025-11-29,Male,56.0
+TXN00649,CUST0060,Home & Kitchen,Bottle,11.12,1,11.12,Cash,In-store,2025-05-11,Male,63.0
+TXN00650,CUST0063,Home & Kitchen,Mug,7.72,1,7.72,UPI,In-store,2025-05-09,Male,60.0
+TXN00651,CUST0123,Electronics,USB Cable,8.81,3,31.19,Credit Card,In-store,2025-12-03,Male,47.0
+TXN00652,CUST0157,Clothing,Hoodie,42.03,2,84.06,UPI,In-store,2025-06-14,Female,38.0
+TXN00653,CUST0109,Groceries,Olive Oil,18.65,2,37.3,UPI,In-store,2025-05-20,Male,45.0
+TXN00654,CUST0053,Home & Kitchen,Bedsheet,27.64,1,27.64,Cash,In-store,2025-04-28,Female,63.0
+TXN00655,CUST0108,Electronics,USB Cable,7.73,2,15.46,UPI,Online,2025-05-18,Male,50.0
+TXN00656,CUST0173,Groceries,Rice,9.37,5,46.85,Credit Card,Online,2025-10-17,Female,61.0
+TXN00657,CUST0105,Home & Kitchen,Pan,34.68,2,69.36,Debit Card,Online,2025-02-05,Female,25.0
+TXN00658,CUST0134,Electronics,USB Cable,7.61,1,7.61,UPI,In-store,2025-08-08,Female,41.0
+TXN00659,CUST0034,Electronics,Mouse,17.86,1,17.86,UPI,In-store,2025-08-27,Female,21.0
+TXN00660,CUST0166,Clothing,Jeans,43.54,1,43.54,Cash,Online,2025-09-01,Female,47.0
+TXN00661,CUST0135,Groceries,Olive Oil,18.9,3,66.91,UPI,In-store,2025-11-04,Prefer not to say,41.0
+TXN00662,CUST0009,Beauty,Sunscreen,13.62,1,13.62,Credit Card,In-store,2025-05-08,Prefer not to say,51.0
+TXN00663,CUST0032,Home & Kitchen,Bottle,11.93,3,35.79,UPI,Online,2025-04-16,Female,30.0
+TXN00664,CUST0175,Electronics,Power Bank,36.41,1,36.41,Credit Card,In-store,2025-08-17,Female,65.0
+TXN00665,CUST0001,Home & Kitchen,Storage Box,13.31,1,13.31,Cash,In-store,2025-07-08,Male,20.0
+TXN00666,CUST0069,Home & Kitchen,Mug,8.81,1,8.81,Debit Card,In-store,2025-08-20,Male,41.0
+TXN00667,CUST0160,Electronics,Power Bank,30.97,4,123.88,Debit Card,Online,2025-10-23,Female,35.0
+TXN00668,CUST0163,Books,Novel,15.04,2,30.08,Credit Card,Online,2025-06-29,Female,37.0
+TXN00669,CUST0172,Electronics,Earphones,21.17,2,42.34,UPI,Online,2025-05-08,Female,27.0
+TXN00670,CUST0117,Beauty,Sunscreen,15.02,2,30.04,Debit Card,Online,2025-10-17,Female,27.0
+TXN00671,CUST0027,Home & Kitchen,Mug,8.35,4,33.4,Credit Card,In-store,2025-03-01,Female,44.0
+TXN00672,CUST0001,Home & Kitchen,Storage Box,13.43,2,26.86,UPI,In-store,2025-08-13,Female,24.0
+TXN00673,CUST0020,Groceries,Cereal,6.59,3,19.77,UPI,In-store,2025-09-20,Female,55.0
+TXN00674,CUST0015,Books,Exam Guide,22.65,2,45.3,Debit Card,Online,2025-08-30,Female,60.0
+TXN00675,CUST0002,Beauty,Sunscreen,14.42,5,72.1,Debit Card,Online,2025-04-10,Female,54.0
+TXN00676,CUST0047,Electronics,Keyboard,29.64,5,148.2,Cash,Online,2025-05-29,Male,26.0
+TXN00677,CUST0162,Books,Notebook,3.82,2,7.64,Digital Wallet,In-store,2025-06-29,Male,62.0
+TXN00678,CUST0021,Beauty,Sunscreen,14.95,2,29.9,UPI,In-store,2025-03-21,Female,21.0
+TXN00679,CUST0171,Groceries,Olive Oil,20.08,2,40.16,Digital Wallet,In-store,2025-03-01,Male,38.0
+TXN00680,CUST0014,Electronics,Earphones,25.84,4,121.96,UPI,In-store,2025-11-12,Male,18.0
+TXN00681,CUST0078,Electronics,Earphones,24.88,1,24.88,Cash,In-store,2025-04-14,Male,26.0
+TXN00682,CUST0155,Books,Exam Guide,21.84,4,87.36,UPI,In-store,2025-07-25,Male,46.0
+TXN00683,CUST0076,Groceries,Olive Oil,20.09,3,60.27,UPI,In-store,2025-03-02,Female,56.0
+TXN00684,CUST0010,Groceries,Coffee,13.29,2,26.58,UPI,In-store,2025-10-07,Female,61.0
+TXN00685,CUST0017,Electronics,Power Bank,34.99,2,69.98,Debit Card,In-store,2025-09-13,Male,28.0
+TXN00686,CUST0123,Beauty,Sunscreen,14.2,2,28.4,UPI,In-store,2025-04-20,Female,44.0
+TXN00687,CUST0112,Beauty,Shampoo,8.28,5,41.4,Credit Card,Online,2025-03-15,Male,45.0
+TXN00688,CUST0089,Groceries,Rice,8.95,3,26.85,Debit Card,In-store,2025-10-28,Female,44.0
+TXN00689,CUST0105,Clothing,T-Shirt,17.43,2,34.86,Credit Card,Online,2025-02-15,Female,41.0
+TXN00690,CUST0152,Electronics,Keyboard,29.78,4,119.12,Debit Card,In-store,2025-10-20,Female,25.0
+TXN00691,CUST0021,Groceries,Pasta,5.09,3,15.27,Debit Card,Online,2025-08-31,Female,41.0
+TXN00692,CUST0026,Beauty,Face Wash,8.84,3,26.52,Debit Card,In-store,2025-03-12,Male,45.0
+TXN00693,CUST0094,Electronics,Power Bank,32.37,1,32.37,Credit Card,In-store,2025-03-03,Female,46.0
+TXN00694,CUST0014,Groceries,Pasta,5.17,2,10.34,UPI,In-store,2025-10-28,Female,59.0
+TXN00695,CUST0175,Clothing,Hoodie,38.65,1,45.61,Cash,In-store,2025-11-26,Female,34.0
+TXN00696,CUST0173,Groceries,Coffee,13.18,3,39.54,Credit Card,Online,2025-05-15,Male,57.0
+TXN00697,CUST0047,Groceries,Rice,9.29,3,27.87,Credit Card,In-store,2025-04-28,Male,27.0
+TXN00698,CUST0110,Beauty,Face Wash,8.92,1,10.53,UPI,In-store,2025-11-04,Male,45.0
+TXN00699,CUST0001,Groceries,Pasta,5.06,5,29.85,Cash,In-store,2025-11-02,Female,37.0
+TXN00700,CUST0094,Groceries,Pasta,4.57,2,9.14,Debit Card,Online,2025-06-11,Female,64.0
+TXN00701,CUST0126,Books,Novel,12.44,1,12.44,Credit Card,In-store,2025-01-14,Male,44.0
+TXN00702,CUST0163,Electronics,Keyboard,30.23,2,60.46,Credit Card,In-store,2025-06-09,Male,27.0
+TXN00703,CUST0116,Clothing,Jeans,39.69,1,39.69,Debit Card,Online,2025-04-26,Male,37.0
+TXN00704,CUST0077,Groceries,Pasta,4.86,2,11.47,Cash,In-store,2025-12-20,Female,27.0
+TXN00705,CUST0092,Groceries,Cereal,6.69,3,20.07,Credit Card,Online,2025-10-06,Female,51.0
+TXN00706,CUST0028,Beauty,Shampoo,8.9,4,35.6,Credit Card,In-store,2025-02-14,Female,44.0
+TXN00707,CUST0027,Beauty,Shampoo,8.55,2,17.1,Credit Card,In-store,2025-06-12,Female,40.0
+TXN00708,CUST0110,Books,Comics,9.88,2,23.32,Credit Card,Online,2025-12-16,Male,42.0
+TXN00709,CUST0091,Home & Kitchen,Storage Box,13.35,4,53.4,Digital Wallet,Online,2025-10-26,Female,50.0
+TXN00710,CUST0121,Groceries,Coffee,11.93,1,11.93,Debit Card,In-store,2025-10-04,Male,55.0
+TXN00711,CUST0080,Clothing,Hoodie,37.68,1,37.68,UPI,Online,2025-03-05,Male,61.0
+TXN00712,CUST0056,Clothing,Socks,5.98,3,17.94,Debit Card,In-store,2025-01-01,Female,40.0
+TXN00713,CUST0061,Beauty,Shampoo,7.55,2,15.1,UPI,In-store,2025-10-19,Male,33.0
+TXN00714,CUST0130,Groceries,Cereal,6.92,2,13.84,Credit Card,Online,2025-09-07,Female,60.0
+TXN00715,CUST0041,Groceries,Cereal,6.65,1,6.65,UPI,In-store,2025-08-16,Female,50.0
+TXN00716,CUST0010,Clothing,Jeans,41.18,1,41.18,Cash,In-store,2025-01-07,Male,54.0
+TXN00717,CUST0095,Clothing,Hoodie,38.46,3,115.38,Debit Card,Online,2025-04-09,Female,28.0
+TXN00718,CUST0024,Clothing,Socks,6.24,3,18.72,Digital Wallet,Online,2025-10-03,Female,24.0
+TXN00719,CUST0077,Electronics,USB Cable,8.81,1,10.4,Cash,In-store,2025-11-21,Male,18.0
+TXN00720,CUST0081,Books,Novel,13.01,5,65.05,UPI,In-store,2025-08-10,Male,45.0

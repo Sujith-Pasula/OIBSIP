@@ -1,0 +1,10 @@
+Metric,Value,Notes
+Total revenue,33563.04,Sum of Total Spent after cleaning
+Average transaction value,46.68,Mean Total Spent per row
+Median transaction value,30.9,Median Total Spent per row
+Unique transactions,719,
+Unique customers,179,Unique non-null Customer ID values
+Units sold,1707,
+Best revenue month,2025-08,Revenue 3515.60
+Top revenue category,Clothing,Revenue 11275.89
+Top revenue product,Jacket,Revenue 5020.02
