@@ -1,0 +1,20 @@
+WINE QUALITY PREDICTION — START HERE
+
+1. Extract the ZIP.
+2. Open the extracted folder in VS Code.
+3. Open a PowerShell terminal and run:
+   python -m venv .venv
+   .\.venv\Scripts\Activate.ps1
+   python -m pip install --upgrade pip
+   pip install -r requirements.txt
+   python src\wine_quality_prediction.py
+
+The script downloads the dataset the first time and generates EDA charts,
+classification metrics, confusion matrices, feature importance, predictions,
+and a report in outputs/.
+
+If activation is blocked:
+   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+   .\.venv\Scripts\Activate.ps1
+
+Use metrics from your own run in the final report and demo.

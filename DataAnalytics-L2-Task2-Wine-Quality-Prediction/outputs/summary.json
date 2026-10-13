@@ -1,0 +1,58 @@
+{
+  "rows_before_cleaning": 1599,
+  "rows_after_cleaning": 1359,
+  "columns": [
+    "fixed acidity",
+    "volatile acidity",
+    "citric acid",
+    "residual sugar",
+    "chlorides",
+    "free sulfur dioxide",
+    "total sulfur dioxide",
+    "density",
+    "pH",
+    "sulphates",
+    "alcohol",
+    "quality"
+  ],
+  "quality_class_counts": {
+    "3": 10,
+    "4": 53,
+    "5": 577,
+    "6": 535,
+    "7": 167,
+    "8": 17
+  },
+  "stratified_test_size": 0.2,
+  "random_state": 42,
+  "metrics": [
+    {
+      "model": "Random Forest",
+      "accuracy": 0.6139705882352942,
+      "macro_precision": 0.29117063492063494,
+      "macro_recall": 0.28478101999694005,
+      "macro_f1": 0.2839125518113377,
+      "weighted_f1": 0.5931893444960626,
+      "macro_ovr_roc_auc": 0.7719424135891697
+    },
+    {
+      "model": "SGD Classifier",
+      "accuracy": 0.3161764705882353,
+      "macro_precision": 0.25476769693860474,
+      "macro_recall": 0.19184310068132174,
+      "macro_f1": 0.1979249713054659,
+      "weighted_f1": 0.3761807123907335,
+      "macro_ovr_roc_auc": 0.6734338130178821
+    },
+    {
+      "model": "SVC",
+      "accuracy": 0.4852941176470588,
+      "macro_precision": 0.29619043327554684,
+      "macro_recall": 0.31812973433985353,
+      "macro_f1": 0.2844069823151372,
+      "weighted_f1": 0.519482208323258,
+      "macro_ovr_roc_auc": 0.8123760068739515
+    }
+  ],
+  "best_by_macro_f1": "SVC"
+}
