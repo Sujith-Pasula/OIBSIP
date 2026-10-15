@@ -1,0 +1,55 @@
+{
+  "rows": 20640,
+  "columns": 10,
+  "target": "median_house_value",
+  "duplicate_rows_removed": 0,
+  "missing_by_column": {
+    "longitude": 0,
+    "latitude": 0,
+    "housing_median_age": 0,
+    "total_rooms": 0,
+    "total_bedrooms": 207,
+    "population": 0,
+    "households": 0,
+    "median_income": 0,
+    "median_house_value": 0,
+    "ocean_proximity": 0
+  },
+  "numeric_columns": [
+    "longitude",
+    "latitude",
+    "housing_median_age",
+    "total_rooms",
+    "total_bedrooms",
+    "population",
+    "households",
+    "median_income"
+  ],
+  "categorical_columns": [
+    "ocean_proximity"
+  ],
+  "train_rows": 16512,
+  "test_rows": 4128,
+  "test_fraction": 0.2,
+  "metrics": [
+    {
+      "model": "Linear Regression",
+      "MSE": 4908290571.346433,
+      "RMSE": 70059.19333925015,
+      "R2": 0.6254382675296266
+    },
+    {
+      "model": "Ridge",
+      "MSE": 4909247315.718947,
+      "RMSE": 70066.02112093242,
+      "R2": 0.6253652564019252
+    },
+    {
+      "model": "Lasso",
+      "MSE": 4908290725.356678,
+      "RMSE": 70059.19443839387,
+      "R2": 0.6254382557767886
+    }
+  ],
+  "dataset_note": "California district-level median house values; not individual home valuations."
+}
